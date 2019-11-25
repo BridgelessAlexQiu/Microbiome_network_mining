@@ -1,6 +1,3 @@
-# Quantum Analysis of Microbiome Networks
-
-`data` contains data
-`code` contains code
+# Microbiome Networks Mining
 
 This will one day be pip-installable
