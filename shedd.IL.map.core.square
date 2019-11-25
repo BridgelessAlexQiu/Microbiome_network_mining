@@ -1,0 +1,1215 @@
+SampleID	Replica	OnlyBefore	OnlyAfter	PrePost	PrePost4Grp	Group1	Group2	Date	DateSequence	Time	TimeSequence	TimeWords	Source	Source2	Source3	Description	Individual	PrePos	observed_species	PD_whole_tree	shannon	Temp
+SA9	0	NA	NA	NA	NA	NA	NA	09/25/14	1	_none	_none	_none	air	air	air-LHA	SA9	LHA	_Pre	1112.0	109.27206	8.44598415891	61.8
+SA10	0	NA	NA	NA	NA	NA	NA	09/27/14	3	13:34	3	pm-12-2	air	air	air-SBH	SA10	SBH	_Pre	1290.0	115.58513	8.65735756383	
+SA15	0	NA	NA	NA	NA	NA	NA	09/28/14	4	13:40	3	pm-12-2	air	air	air-BOB	SA15	BOB	_Pre	1232.0	111.03581	8.67815290587	62.4
+SA14	0	NA	NA	NA	NA	NA	NA	09/28/14	4	14:24	4	pm-2-4	air	air	air-LHA	SA14	LHA	_Pre	1206.0	104.44875	8.62397948783	62.4
+SA16	0	NA	NA	NA	NA	NA	NA	09/29/14	5	14:11	4	pm-2-4	air	air	air-SBH	SA16	SBH	_Pre	1162.0	102.94725	8.58819916255	
+SA19	0	NA	NA	NA	NA	NA	NA	10/02/14	8	13:45	3	pm-12-2	air	air	air-BOB	SA19	BOB	_Pre	573.0	55.12536	7.491704995	
+SA20	0	NA	NA	NA	NA	NA	NA	10/02/14	8	14:07	4	pm-2-4	air	air	air-LHA	SA20	LHA	_Pre	977.0	95.49574	7.38773044215	
+SA18	0	NA	NA	NA	NA	NA	NA	10/02/14	8	13:53	3	pm-12-2	air	air	air-SBH	SA18	SBH	_Pre	1066.0	95.6503	8.0368145545	
+AQ156	0	NA	NA	NA	NA	NA	NA	10/04/14	10	13:49	3	pm-12-2	air	air	air-BOB	AQ156	BOB	_Pre	1084.0	98.81439	8.42295359043	61.3
+AQ597	0	NA	NA	NA	NA	NA	NA	10/05/14	11	13:44	3	pm-12-2	air	air	air-BOB	AQ597	BOB	_Pre	1001.0	98.46225	7.93010059105	60.9
+AQ726	0	NA	NA	NA	NA	NA	NA	10/05/14	11	14:07	4	pm-2-4	air	air	air-LHA	AQ726	LHA	_Pre	1126.0	112.9409	6.62439353657	60.9
+AQ622	0	NA	NA	NA	NA	NA	NA	10/06/14	12	13:15	3	pm-12-2	air	air	air-BOB	AQ622	BOB	_Pre	1110.0	101.2296	8.42582598526	60.2
+AQ25	0	NA	NA	NA	NA	NA	NA	10/06/14	12	14:20	4	pm-2-4	air	air	air-LHA	AQ25	LHA	_Pre	1119.0	104.44584	8.15271077191	60.2
+AQ676	0	NA	NA	NA	NA	NA	NA	10/06/14	12	14:00	4	pm-2-4	air	air	air-SBH	AQ676	SBH	_Pre	1169.0	103.83214	8.75666740923	60.2
+AQ624	0	NA	NA	NA	NA	NA	NA	10/07/14	13	13:58	3	pm-12-2	air	air	air-BOB	AQ624	BOB	_Pre	1086.0	105.09739	7.84773804677	60.1
+AQ232	0	NA	NA	NA	NA	NA	NA	10/07/14	13	14:20	4	pm-2-4	air	air	air-LHA	AQ232	LHA	_Pre	1240.0	121.52044	8.2121207278	60.1
+AQ779	0	NA	NA	NA	NA	NA	NA	10/07/14	13	14:08	4	pm-2-4	air	air	air-SBH	AQ779	SBH	_Pre	571.0	58.63277	7.51941895616	60.1
+AQ52	0	NA	NA	NA	NA	NA	NA	10/08/14	14	14:05	4	pm-2-4	air	air	air-BOB	AQ52	BOB	_Pre	1198.0	114.26665	8.61290929715	
+AQ130	0	NA	NA	NA	NA	NA	NA	10/08/14	14	14:22	4	pm-2-4	air	air	air-LHA	AQ130	LHA	_Pre	1308.0	126.15316	7.98305068063	
+AQ753	0	NA	NA	NA	NA	NA	NA	10/08/14	14	14:13	4	pm-2-4	air	air	air-SBH	AQ753	SBH	_Pre	1229.0	108.27953	8.70712183111	
+AQ623	0	NA	NA	NA	NA	NA	NA	10/09/14	15	13:56	3	pm-12-2	air	air	air-SBH	AQ623	SBH	_Pre	1197.0	105.77039	8.80447698974	
+AQ208	0	NA	NA	NA	NA	NA	NA	10/10/14	16	13:47	3	pm-12-2	air	air	air-BOB	AQ208	BOB	_Pre	1357.0	123.54236	8.75760616174	60.5
+AQ364	0	NA	NA	NA	NA	NA	NA	10/10/14	16	13:58	3	pm-12-2	air	air	air-SBH	AQ364	SBH	_Pre	1303.0	112.1095	8.82439804173	60.5
+AQ207	0	NA	NA	NA	NA	NA	NA	10/11/14	17	14:00	4	pm-2-4	air	air	air-BOB	AQ207	BOB	_Pre	1239.0	104.92119	8.11460716769	
+AQ233	0	NA	NA	NA	NA	NA	NA	10/11/14	17	14:21	4	pm-2-4	air	air	air-LHA	AQ233	LHA	_Pre	1129.0	109.28912	8.31914309201	
+AQ104	0	NA	NA	NA	NA	NA	NA	10/11/14	17	14:10	4	pm-2-4	air	air	air-SBH	AQ104	SBH	_Pre	1329.0	114.58488	8.91512058397	
+AQ154	0	NA	NA	NA	NA	NA	NA	10/12/14	18	13:55	3	pm-12-2	air	air	air-BOB	AQ154	BOB	_Pre	1230.0	114.02748	8.66963734059	
+AQ180	0	NA	NA	NA	NA	NA	NA	10/12/14	18	14:30	4	pm-2-4	air	air	air-LHA	AQ180	LHA	_Pre	717.0	69.32773	7.83740260209	
+AQ181	0	NA	NA	NA	NA	NA	NA	10/12/14	18	14:15	4	pm-2-4	air	air	air-SBH	AQ181	SBH	_Pre	1275.0	111.34251	8.42130831194	
+AQ831	0	NA	NA	NA	NA	NA	NA	10/13/14	19	13:50	3	pm-12-2	air	air	air-BOB	AQ831	BOB	Pos	1318.0	115.76615	8.6556320346	60.6
+AQ805	0	NA	NA	NA	NA	NA	NA	10/13/14	19	14:25	4	pm-2-4	air	air	air-LHA	AQ805	LHA	Pos	1262.0	113.04944	8.59446213361	60.6
+AQ806	0	NA	NA	NA	NA	NA	NA	10/13/14	19	14:02	4	pm-2-4	air	air	air-SBH	AQ806	SBH	Pos	1201.0	102.57654	8.57300992051	60.6
+AQ935	0	NA	NA	NA	NA	NA	NA	10/14/14	20	13:56	3	pm-12-2	air	air	air-BOB	AQ935	BOB	Pos	1321.0	110.64704	8.67273492059	60.3
+AQ857	0	NA	NA	NA	NA	NA	NA	10/14/14	20	14:27	4	pm-2-4	air	air	air-LHA	AQ857	LHA	Pos	1344.0	116.86757	8.67682951348	60.3
+AQ908	0	NA	NA	NA	NA	NA	NA	10/14/14	20	14:18	4	pm-2-4	air	air	air-SBH	AQ908	SBH	Pos	1327.0	114.81234	8.7575464338	60.3
+AQ882	0	NA	NA	NA	NA	NA	NA	10/15/14	21	13:57	3	pm-12-2	air	air	air-BOB	AQ882	BOB	Pos	1179.0	101.93856	8.58640028057	60.0
+AQ883	0	NA	NA	NA	NA	NA	NA	10/15/14	21	14:24	4	pm-2-4	air	air	air-LHA	AQ883	LHA	Pos	1208.0	105.6974	8.50441155442	60.0
+AQ1118	0	NA	NA	NA	NA	NA	NA	10/16/14	22	13:43	3	pm-12-2	air	air	air-BOB	AQ1118	BOB	Pos	1230.0	107.47471	8.53017944472	59.1
+AQ1326	0	NA	NA	NA	NA	NA	NA	10/17/14	23	14:18	4	pm-2-4	air	air	air-LHA	AQ1326	LHA	Pos	1362.0	121.20568	8.71772634721	59.7
+AQ1039	0	NA	NA	NA	NA	NA	NA	10/18/14	24	13:57	3	pm-12-2	air	air	air-BOB	AQ1039	BOB	Pos	1212.0	102.83831	8.49504830029	59.2
+AQ1040	0	NA	NA	NA	NA	NA	NA	10/18/14	24	14:09	4	pm-2-4	air	air	air-LHA	AQ1040	LHA	Pos	1214.0	110.89173	8.14586207118	59.2
+AQ1144	0	NA	NA	NA	NA	NA	NA	10/19/14	25	13:59	3	pm-12-2	air	air	air-BOB	AQ1144	BOB	Pos	1218.0	111.83719	8.56460646237	59.8
+AQ1169	0	NA	NA	NA	NA	NA	NA	10/19/14	25	14:10	4	pm-2-4	air	air	air-LHA	AQ1169	LHA	Pos	740.0	68.18873	8.04055386255	59.8
+AQ961	0	NA	NA	NA	NA	NA	NA	10/20/14	26	14:00	4	pm-2-4	air	air	air-BOB	AQ961	BOB	Pos	536.0	58.10099	6.75865669589	59.8
+AQ1168	0	NA	NA	NA	NA	NA	NA	10/20/14	26	14:20	4	pm-2-4	air	air	air-LHA	AQ1168	LHA	Pos	633.0	66.66249	6.5609491161	59.8
+AQ1013	0	NA	NA	NA	NA	NA	NA	10/21/14	27	14:01	4	pm-2-4	air	air	air-BOB	AQ1013	BOB	Pos	712.0	69.66264	7.71106136133	59.8
+AQ1195	0	NA	NA	NA	NA	NA	NA	10/21/14	27	14:10	4	pm-2-4	air	air	air-LHA	AQ1195	LHA	Pos	727.0	82.26674	6.11791517858	59.8
+AQ1246	1	NA	NA	NA	NA	NA	NA	10/22/14	28	14:19	4	pm-2-4	air	air	air-BOB	AQ1246	BOB	Pos	522.0	55.76047	5.80331842779	60.8
+AQ1274	0	NA	NA	NA	NA	NA	NA	10/22/14	28	14:30	4	pm-2-4	air	air	air-LHA	AQ1274	LHA	Pos	517.0	56.82302	4.82932678372	60.8
+AQ1221	0	NA	NA	NA	NA	NA	NA	10/23/14	29	14:05	4	pm-2-4	air	air	air-BOB	AQ1221	BOB	Pos	681.0	68.87336	7.07308208626	60.3
+AQ1351	0	NA	NA	NA	NA	NA	NA	10/24/14	30	13:45	3	pm-12-2	air	air	air-BOB	AQ1351	BOB	Pos	721.0	70.37452	7.32792251496	60.8
+AQ1352	0	NA	NA	NA	NA	NA	NA	10/24/14	30	13:53	3	pm-12-2	air	air	air-LHA	AQ1352	LHA	Pos	686.0	72.23114	6.37647419187	60.8
+AQ1404	0	NA	NA	NA	NA	NA	NA	10/25/14	31	14:14	4	pm-2-4	air	air	air-LHA	AQ1404	LHA	Pos	631.0	61.9581	7.05614897361	60.8
+AQ1481	0	NA	NA	NA	NA	NA	NA	10/26/14	32	14:07	4	pm-2-4	air	air	air-BOB	AQ1481	BOB	Pos	937.0	89.31634	7.41982472739	59.5
+AQ1377	0	NA	NA	NA	NA	NA	NA	10/26/14	32	14:23	4	pm-2-4	air	air	air-LHA	AQ1377	LHA	Pos	709.0	80.69511	5.11422219644	59.5
+AQ1480	0	NA	NA	NA	NA	NA	NA	10/27/14	33	14:10	4	pm-2-4	air	air	air-BOB	AQ1480	BOB	Pos	1308.0	112.75528	8.60926324461	59.5
+AQ1506	1	NA	NA	NA	NA	NA	NA	10/28/14	34	14:03	4	pm-2-4	air	air	air-BOB	AQ1506	BOB	Pos	718.0	73.42545	7.31705812232	59.8
+AQ1559	1	NA	NA	NA	NA	NA	NA	10/28/14	34	14:12	4	pm-2-4	air	air	air-LHA	AQ1559	LHA	Pos	662.0	69.81649	5.96441692594	59.8
+AQ1534	1	NA	NA	NA	NA	NA	NA	10/29/14	35	13:45	3	pm-12-2	air	air	air-BOB	AQ1534	BOB	Pos	596.0	53.73503	7.36026201967	59.8
+AQ1456	1	NA	NA	NA	NA	NA	NA	10/29/14	35	14:00	4	pm-2-4	air	air	air-LHA	AQ1456	LHA	Pos	776.0	84.55554	7.03925664695	59.8
+AQ1092	0	NA	NA	NA	NA	NA	NA	10/30/14	36	14:25	4	pm-2-4	air	air	air-BOB	AQ1092	BOB	Pos	607.0	58.09009	7.01124783204	60.0
+AQ987	0	NA	NA	NA	NA	NA	NA	10/30/14	36	14:40	4	pm-2-4	air	air	air-LHA	AQ987	LHA	Pos	714.0	77.34146	6.03816105396	60.0
+AQ1325	0	NA	NA	NA	NA	NA	NA	10/31/14	37	14:16	4	pm-2-4	air	air	air-LHA	AQ1325	LHA	Pos	828.0	87.84869	5.68960250801	60.4
+SA8	0	NA	NA	NA	NA	NA	NA	11/01/14	38	14:40	4	pm-2-4	air	air	air-LHA	SA8	LHA	Pos	758.0	80.73209	5.04010647889	59.3
+SA5	0	NA	NA	NA	NA	NA	NA	11/02/14	39	14:28	4	pm-2-4	air	air	air-LHA	SA5	LHA	Pos	739.0	70.34241	5.56650036871	58.5
+SA4	0	NA	NA	NA	NA	NA	NA	11/03/14	40	14:11	4	pm-2-4	air	air	air-BOB	SA4	BOB	Pos	718.0	70.36682	7.38124176304	57.2
+SA1	0	NA	NA	NA	NA	NA	NA	11/04/14	41	14:03	4	pm-2-4	air	air	air-LHA	SA1	LHA	Pos	962.0	99.39822	7.23952062891	56.4
+AQ366	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ366	D1	_Pre	333.0	37.30367	5.44247990253	61.5
+AQ365	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ365	D2	_Pre	396.0	44.20839	5.91968956447	61.5
+AQ290	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ290	D3	_Pre	263.0	28.01151	5.13291058013	61.5
+AQ237	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ237	D4	_Pre	307.0	42.54693	5.81972137468	61.5
+AQ10	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ10	D1	_Pre	315.0	40.56787	3.76790522883	61.5
+AQ376	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ376	D3	_Pre	362.0	48.87481	4.05824565956	61.5
+AQ167	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ167	D4	_Pre	143.0	21.16417	2.38916934987	61.5
+AQ370	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ370	D1	_Pre	176.0	23.05168	4.25785090828	61.5
+AQ369	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ369	D2	_Pre	201.0	25.69374	4.27533927697	61.5
+AQ241	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/24/14	0	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ241	D4	_Pre	183.0	21.46974	4.06275210274	61.5
+AQ132	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ132	D1	_Pre	269.0	32.46072	4.9924061395	61.8
+AQ313	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ313	D2	_Pre	484.0	41.10183	5.70274733837	61.8
+AQ368	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ368	D3	_Pre	319.0	42.92812	5.44993379643	61.8
+AQ81	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ81	D4	_Pre	504.0	54.95801	6.4010237366	61.8
+AQ88	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ88	D1	_Pre	300.0	46.95283	3.1381316588	61.8
+AQ347	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ347	D2	_Pre	469.0	38.36309	4.78147135129	61.8
+AQ272	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ272	D3	_Pre	357.0	50.37319	4.51017954089	61.8
+AQ11	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ11	D4	_Pre	125.0	14.9671	1.97866610764	61.8
+AQ136	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ136	D1	_Pre	101.0	13.28563	1.41184736974	61.8
+AQ343	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ343	D2	_Pre	351.0	39.17936	4.12901963023	61.8
+AQ372	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ372	D3	_Pre	303.0	36.08034	4.12718798132	61.8
+AQ85	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/25/14	1	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ85	D4	_Pre	187.0	18.91166	3.67382071102	61.8
+AQ2	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ2	D1	_Pre	376.0	50.74734	6.18107387986	62.9
+AQ339	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ339	D2	_Pre	439.0	56.05368	5.59121056525	62.9
+AQ342	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ342	D3	_Pre	401.0	52.20228	5.56996389408	62.9
+AQ133	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ133	D4	_Pre	382.0	44.7851	6.08405046918	62.9
+AQ244	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ244	D1	_Pre	182.0	24.97307	3.29193304235	62.9
+AQ321	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ321	D2	_Pre	600.0	73.24711	4.45571795808	62.9
+AQ89	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ89	D4	_Pre	189.0	29.86511	2.04399699204	62.9
+AQ6	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ6	D1	_Pre	92.0	11.90579	2.09258404274	62.9
+AQ317	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ317	D2	_Pre	281.0	33.36016	4.1710105373	62.9
+AQ346	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/26/14	2	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ346	D3	_Pre	532.0	63.53889	4.62751843602	62.9
+AQ236	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ236	D1	_Pre	301.0	39.43935	5.17206072306	
+AQ235	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ235	D2	_Pre	333.0	38.3471	5.41262895673	
+AQ316	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ316	D3	_Pre	826.0	91.43238	6.94020142139	
+AQ55	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ55	D4	_Pre	341.0	40.49527	5.77570202794	
+AQ296	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ296	D1	_Pre	340.0	46.44119	3.86217691094	
+AQ269	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ269	D2	_Pre	293.0	39.37966	3.60151593994	
+AQ324	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ324	D3	_Pre	464.0	62.41753	4.71704544865	
+AQ63	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/27/14	3	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ63	D4	_Pre	130.0	19.54161	2.51211474519	
+AQ240	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ240	D1	_Pre	247.0	28.49992	4.5615254151	
+AQ213	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ213	D2	_Pre	244.0	32.16766	3.72452207487	
+AQ268	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/27/14	3	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ268	D3	_Pre	618.0	74.77683	5.47018487912	
+AQ326	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ326	D1	_Pre	802.0	81.33748	6.06036258228	62.4
+AQ209	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ209	D2	_Pre	653.0	74.85794	6.51673026907	62.4
+AQ264	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ264	D3	_Pre	336.0	48.97964	4.84007457536	62.4
+AQ29	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ29	D4	_Pre	501.0	62.28847	6.6986948698	62.4
+AQ270	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ270	D1	_Pre	320.0	48.82163	3.60842023155	62.4
+AQ217	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ217	D2	_Pre	726.0	86.91307	5.69760594659	62.4
+AQ115	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ115	D4	_Pre	169.0	23.44402	2.60129854599	62.4
+AQ292	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ292	D1	_Pre	281.0	26.42994	4.67537425479	62.4
+AQ291	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ291	D2	_Pre	581.0	67.17223	3.81745490006	62.4
+AQ242	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/28/14	4	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ242	D3	_Pre	193.0	25.56975	3.20771996055	62.4
+AQ288	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ288	D1	_Pre	483.0	42.80968	5.80758918824	
+AQ262	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ262	D1	_Pre	336.0	42.71167	5.51001303554	
+AQ314	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ314	D1	_Pre	1155.0	112.20916	8.43898651397	
+AQ340	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ340	D1	_Pre	386.0	49.4909	5.71783177402	
+AQ28	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ28	D1	_Pre	398.0	46.14042	6.06742560902	
+AQ80	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ80	D1	_Pre	285.0	36.37469	5.17978647438	
+AQ287	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ287	D2	_Pre	212.0	26.08327	4.15012609073	
+AQ83	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ83	D2	_Pre	259.0	36.21669	4.33317816743	
+AQ1	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1	D2	_Pre	379.0	46.72643	6.0416197663	
+AQ53	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ53	D2	_Pre	150.0	18.65649	3.62594752976	
+AQ131	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ131	D2	_Pre	320.0	41.05896	5.44422029741	
+AQ79	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ79	D2	_Pre	333.0	38.19058	5.22415442494	
+AQ758	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ758	D3	_Pre	305.0	33.26226	5.34838597122	
+AQ654	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ654	D3	_Pre	397.0	52.8278	5.82005403445	
+AQ680	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ680	D3	_Pre	340.0	42.88813	5.59852413842	
+AQ706	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ706	D3	_Pre	324.0	38.1027	5.22037268904	
+AQ524	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ524	D3	_Pre	291.0	33.16329	5.217798295	
+AQ732	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ732	D3	_Pre	363.0	46.31367	5.27193491214	
+AQ3	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ3	D4	_Pre	359.0	40.89142	5.95591858184	
+AQ341	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ341	D4	_Pre	404.0	49.80864	6.10956352297	
+AQ211	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ211	D4	_Pre	305.0	36.49136	5.61211748083	
+AQ315	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ315	D4	_Pre	463.0	57.27461	6.11689072923	
+AQ218	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D1	AQ218	D1	_Pre	467.0	53.54485	3.68926347407	
+AQ322	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D1	AQ322	D1	_Pre	778.0	93.82258	5.25525014273	
+AQ348	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ348	D1	_Pre	244.0	38.01859	3.23578872027	
+AQ374	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D1	AQ374	D1	_Pre	286.0	41.57486	3.09199055289	
+AQ114	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D1	AQ114	D1	_Pre	423.0	55.11817	4.65720864083	
+AQ62	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D1	AQ62	D1	_Pre	286.0	42.82045	3.22384731111	
+AQ295	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D2	AQ295	D2	_Pre	191.0	26.79093	2.8457327635	
+AQ243	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D2	AQ243	D2	_Pre	381.0	55.27961	3.6790368889	
+AQ87	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ87	D2	_Pre	164.0	21.64549	2.98473548547	
+AQ9	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D2	AQ9	D2	_Pre	283.0	41.97395	3.46961904366	
+AQ113	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D2	AQ113	D2	_Pre	487.0	53.0218	5.45807908549	
+AQ61	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D2	AQ61	D2	_Pre	305.0	46.33355	3.1740630593	
+AQ740	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D3	AQ740	D3	_Pre	160.0	18.86357	3.36894202713	
+AQ766	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D3	AQ766	D3	_Pre	582.0	65.30228	5.80365999556	
+AQ662	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ662	D3	_Pre	512.0	62.94989	5.41580791705	
+AQ688	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D3	AQ688	D3	_Pre	274.0	40.80544	2.7433878082	
+AQ558	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D3	AQ558	D3	_Pre	455.0	60.06997	4.61872415416	
+AQ714	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D3	AQ714	D3	_Pre	446.0	59.71958	3.88403792371	
+AQ37	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D4	AQ37	D4	_Pre	237.0	37.68139	2.99127822668	
+AQ375	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D4	AQ375	D4	_Pre	265.0	32.81628	3.09792241478	
+AQ349	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ349	D4	_Pre	357.0	51.65967	3.85829219539	
+AQ323	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D4	AQ323	D4	_Pre	280.0	34.04326	2.99837840214	
+AQ271	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D4	AQ271	D4	_Pre	340.0	45.96815	3.25292112105	
+AQ266	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ266	D1	_Pre	257.0	16.01576	4.02580298231	
+AQ999	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ999	D1	_Pre	955.0	92.64378	5.70435409203	
+AQ318	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ318	D1	_Pre	937.0	93.47721	7.65960248318	
+AQ84	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ84	D1	_Pre	1272.0	112.53596	8.60332773483	
+AQ58	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ58	D1	_Pre	255.0	29.03399	4.82582583928	
+AQ265	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ265	D2	_Pre	143.0	11.39833	3.64578671688	
+AQ261	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ261	D2	_Pre	573.0	63.4849	5.04363772293	
+AQ239	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	12:40	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ239	D2	_Pre	254.0	31.29497	3.95189819401	
+AQ135	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ135	D2	_Pre	188.0	23.90347	2.26356047294	
+AQ762	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ762	D3	_Pre	123.0	15.4588	2.96295109778	
+AQ710	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ710	D3	_Pre	101.0	12.04363	2.35641053644	
+AQ320	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ320	D3	_Pre	114.0	14.45827	3.8022354955	
+AQ684	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ684	D3	_Pre	319.0	41.32978	4.47894469025	
+AQ658	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ658	D3	_Pre	237.0	29.03855	4.171154041	
+AQ554	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ554	D3	_Pre	391.0	48.88399	4.91826718844	
+AQ736	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	16:00	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ736	D3	_Pre	197.0	24.2726	3.81577844388	
+AQ189	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ189	D4	_Pre	158.0	17.74634	3.66578535872	
+AQ111	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ111	D4	_Pre	500.0	54.17204	5.0690367176	
+AQ371	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ371	D4	_Pre	158.0	18.95266	3.01073630559	
+AQ345	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ345	D4	_Pre	262.0	29.73683	3.93543372675	
+AQ215	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/29/14	5	17:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ215	D4	_Pre	318.0	37.94295	5.05164020562	
+AQ65	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ65	D1	_Pre	448.0	50.787	5.00825399902	61.8
+AQ474	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ474	D3	_Pre	885.0	90.50643	7.18597123557	61.8
+AQ185	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ185	D4	_Pre	372.0	42.54862	5.74142885433	61.8
+AQ36	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ36	D1	_Pre	372.0	55.36372	3.65798371492	61.8
+AQ35	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ35	D2	_Pre	347.0	49.16073	4.01554856198	61.8
+AQ350	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ350	D3	_Pre	616.0	67.96285	5.51932282289	61.8
+AQ532	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ532	D3	_Pre	315.0	45.30798	3.12479481813	61.8
+AQ193	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ193	D4	_Pre	162.0	24.53065	2.37776212375	61.8
+AQ110	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ110	D1	_Pre	861.0	89.22774	6.93445609299	61.8
+AQ109	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ109	D2	_Pre	233.0	32.35638	3.83892489744	61.8
+AQ476	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ476	D3	_Pre	187.0	22.82642	3.77879350986	61.8
+AQ163	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	09/30/14	6	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ163	D4	_Pre	218.0	23.07846	4.22078292606	61.8
+AQ54	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ54	D1	_Pre	311.0	41.66731	5.19398598685	61.2
+AQ498	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ498	D3	_Pre	253.0	28.41638	5.03576174943	61.2
+AQ192	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ192	D1	_Pre	345.0	44.84051	3.66868112408	61.2
+AQ191	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ191	D2	_Pre	342.0	42.86615	3.88963090288	61.2
+AQ480	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ480	D3	_Pre	494.0	63.8956	4.45807378382	61.2
+AQ141	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ141	D4	_Pre	109.0	14.43716	2.17723618545	61.2
+AQ32	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ32	D1	_Pre	226.0	26.64532	4.26427168813	61.2
+AQ31	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ31	D2	_Pre	136.0	17.10916	2.93280833158	61.2
+AQ137	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/01/14	7	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ137	D4	_Pre	184.0	16.73353	3.84497513037	61.2
+AQ184	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ184	D1	_Pre	236.0	32.45046	4.26486799613	
+AQ183	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ183	D2	_Pre	355.0	42.24273	5.63336043929	
+AQ550	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ550	D3	_Pre	467.0	58.32088	6.20768638837	
+AQ166	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ166	D1	_Pre	350.0	48.84969	3.95659857858	
+AQ165	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ165	D2	_Pre	337.0	40.5678	4.4041888252	
+AQ636	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ636	D3	_Pre	403.0	52.75206	4.93748997461	
+AQ297	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ297	D4	_Pre	263.0	36.50583	3.4139288887	
+AQ188	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ188	D1	_Pre	149.0	16.5356	3.28295594592	
+AQ187	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ187	D2	_Pre	169.0	19.83251	3.67244946713	
+AQ632	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ632	D3	_Pre	164.0	21.33932	3.39214515253	
+AQ293	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/02/14	8	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ293	D4	_Pre	174.0	18.2917	3.24674073482	
+AQ158	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ158	D1	_Pre	359.0	44.07296	5.36203176053	62.4
+AQ157	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ157	D2	_Pre	309.0	39.33132	5.74064225434	62.4
+AQ576	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ576	D3	_Pre	269.0	35.30202	5.45086959966	62.4
+AQ263	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ263	D4	_Pre	326.0	42.26307	5.56089085573	62.4
+AQ140	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ140	D1	_Pre	127.0	15.80534	2.7031756913	62.4
+AQ139	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ139	D2	_Pre	430.0	57.19238	5.03828035422	62.4
+AQ454	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ454	D3	_Pre	393.0	55.33197	3.88876842435	62.4
+AQ162	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ162	D1	_Pre	319.0	33.09193	4.62402049279	62.4
+AQ161	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ161	D2	_Pre	320.0	36.88136	4.50762482545	62.4
+AQ450	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ450	D3	_Pre	103.0	17.92485	1.00741660737	62.4
+AQ267	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/03/14	9	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ267	D4	_Pre	210.0	26.18766	4.01338840286	62.4
+AQ678	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ678	D1	_Pre	346.0	42.57902	6.15782886867	61.3
+AQ729	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ729	D2	_Pre	315.0	39.2567	5.22572183771	61.3
+AQ679	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ679	D4	_Pre	337.0	36.95886	5.75450706835	61.3
+AQ738	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ738	D1	_Pre	216.0	31.16496	3.04102459285	61.3
+AQ581	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ581	D2	_Pre	308.0	42.48229	3.70635631177	61.3
+AQ506	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ506	D3	_Pre	300.0	45.32729	3.15214631395	61.3
+AQ765	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ765	D4	_Pre	224.0	31.52006	3.50963924898	61.3
+AQ760	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ760	D1	_Pre	281.0	30.53772	4.9974893797	61.3
+AQ577	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ577	D2	_Pre	247.0	25.69427	4.34552089531	61.3
+AQ502	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ502	D3	_Pre	80.0	14.91399	0.594142807894	61.3
+AQ761	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/04/14	10	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ761	D4	_Pre	215.0	26.72409	3.79369512175	61.3
+AQ704	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/05/14	11	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ704	D1	_Pre	378.0	45.1052	5.90457912346	60.9
+AQ446	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/05/14	11	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ446	D3	_Pre	300.0	34.05964	5.28531292028	60.9
+AQ757	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/05/14	11	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ757	D4	_Pre	300.0	40.9185	5.3633686206	60.9
+AQ711	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/05/14	11	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ711	D2	_Pre	466.0	58.97493	5.1461207626	60.9
+AQ584	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/05/14	11	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ584	D3	_Pre	384.0	53.04646	4.45875136094	60.9
+AQ687	0	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/05/14	11	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ687	D4	_Pre	167.0	25.42747	2.42583882727	60.9
+AQ682	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/05/14	11	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ682	D1	_Pre	254.0	32.7395	4.13539264193	60.9
+AQ499	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/05/14	11	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ499	D2	_Pre	261.0	28.34445	4.22179226912	60.9
+AQ580	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/05/14	11	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ580	D3	_Pre	245.0	33.87016	3.20088250535	60.9
+AQ709	0	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/05/14	11	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ709	D4	_Pre	164.0	16.10285	3.65264383877	60.9
+AQ756	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ756	D1	_Pre	367.0	40.99192	5.83629220005	60.2
+AQ547	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ547	D2	_Pre	363.0	43.18949	5.7783625419	60.2
+AQ628	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ628	D3	_Pre	297.0	30.93957	5.34305643926	60.2
+AQ705	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ705	D4	_Pre	377.0	44.69122	5.89734631796	60.2
+AQ634	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ634	D1	_Pre	241.0	29.26145	3.10810698673	60.2
+AQ610	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ610	D3	_Pre	373.0	51.8265	4.00214006571	60.2
+AQ661	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ661	D4	_Pre	375.0	52.43406	4.64086575569	60.2
+AQ708	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ708	D1	_Pre	307.0	35.5495	4.57366522323	60.2
+AQ655	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ655	D2	_Pre	490.0	55.79589	6.3093766375	60.2
+AQ606	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/06/14	12	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ606	D3	_Pre	445.0	52.66921	5.75238844031	60.2
+AQ735	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/06/14	12	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ735	D4	_Pre	155.0	18.49414	3.28378443338	60.2
+AQ470	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ470	D1	_Pre	564.0	50.63932	6.39969390246	60.1
+AQ495	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ495	D2	_Pre	965.0	92.97095	7.42668953761	60.1
+AQ394	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ394	D3	_Pre	523.0	47.66706	6.07311837461	60.1
+AQ653	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ653	D4	_Pre	643.0	53.75765	6.60117028308	60.1
+AQ764	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ764	D1	_Pre	353.0	31.94787	4.11748944445	60.1
+AQ402	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ402	D3	_Pre	517.0	50.36128	4.9202426194	60.1
+AQ739	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ739	D4	_Pre	1305.0	110.7623	8.64403143177	60.1
+AQ448	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ448	D1	_Pre	424.0	39.74322	5.31650237139	60.1
+AQ994	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ994	D2	_Pre	1249.0	114.01053	8.16051807685	60.1
+AQ398	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/07/14	13	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ398	D3	_Pre	324.0	29.96664	5.11410734787	60.1
+AQ522	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ522	D1	_Pre	357.0	38.40541	5.59295846275	
+AQ651	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ651	D2	_Pre	284.0	31.19291	4.9153865084	
+AQ420	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ420	D3	_Pre	680.0	69.6847	6.51140616715	
+AQ478	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ478	D1	_Pre	192.0	28.66258	2.90329428726	
+AQ504	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ504	D2	_Pre	1363.0	121.41396	8.18902362352	
+AQ428	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ428	D3	_Pre	1421.0	125.13653	8.57102196428	
+AQ451	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ451	D1	_Pre	1005.0	95.32051	7.07898669118	
+AQ525	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ525	D2	_Pre	396.0	47.35651	5.46556535339	
+AQ424	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/08/14	14	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ424	D3	_Pre	1137.0	102.51047	7.23430237089	
+AQ626	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ626	D1	_Pre	447.0	42.59559	5.06726115014	
+AQ599	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ599	D2	_Pre	854.0	83.68368	7.03305183282	
+AQ212	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ212	D3	_Pre	558.0	50.541	6.32364834563	
+AQ601	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ601	D4	_Pre	598.0	50.65058	6.62820386512	
+AQ530	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ530	D1	_Pre	567.0	49.57102	4.86156252841	
+AQ477	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ477	D2	_Pre	1279.0	112.43231	7.73344328417	
+AQ298	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ298	D3	_Pre	692.0	73.56075	5.62627448625	
+AQ713	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ713	D4	_Pre	536.0	55.21553	4.99199458725	
+AQ526	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ526	D1	_Pre	220.0	18.16335	3.5725454011	
+AQ551	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ551	D2	_Pre	773.0	79.09838	4.97065228514	
+AQ216	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/09/14	15	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ216	D3	_Pre	287.0	28.39061	4.71906686622	
+AQ444	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ444	D1	_Pre	496.0	42.08281	6.16107510062	60.5
+AQ469	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ469	D2	_Pre	527.0	53.90132	6.17335549563	60.5
+AQ82	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ82	D3	_Pre	309.0	36.42043	5.37538888084	60.5
+AQ471	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ471	D4	_Pre	553.0	48.19854	6.58210447488	60.5
+AQ686	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ686	D1	_Pre	454.0	45.28195	5.03610718047	60.5
+AQ529	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ529	D2	_Pre	580.0	58.44759	5.18716950889	60.5
+AQ246	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ246	D3	_Pre	1212.0	109.0414	7.18119833028	60.5
+AQ557	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ557	D4	_Pre	1270.0	120.52239	8.18598149819	60.5
+AQ552	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ552	D1	_Pre	567.0	56.2758	6.63469462412	60.5
+AQ629	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ629	D2	_Pre	341.0	27.98294	4.84429227636	60.5
+AQ294	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ294	D3	_Pre	777.0	74.46124	6.47541661897	60.5
+AQ657	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/10/14	16	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ657	D4	_Pre	481.0	50.93405	5.4365901758	60.5
+AQ392	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ392	D1	_Pre	431.0	45.20998	5.09807577918	
+AQ521	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ521	D2	_Pre	370.0	33.17007	4.69866766634	
+AQ238	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ238	D3	_Pre	480.0	43.11574	5.80682324755	
+AQ731	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ731	D4	_Pre	882.0	88.02542	7.15333948332	
+AQ452	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ452	D1	_Pre	211.0	19.79821	3.0743575207	
+AQ555	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ555	D2	_Pre	630.0	65.29886	5.82635111871	
+AQ64	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ64	D3	_Pre	362.0	48.91149	3.97532444021	
+AQ531	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ531	D4	_Pre	395.0	44.99432	2.80502380389	
+AQ630	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ630	D1	_Pre	227.0	16.87856	4.05567798149	
+AQ603	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ603	D2	_Pre	297.0	25.70061	4.57973197595	
+AQ86	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ86	D3	_Pre	343.0	32.30446	4.54301569342	
+AQ527	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/11/14	17	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ527	D4	_Pre	230.0	18.04068	3.89558952624	
+AQ418	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ418	D1	_Pre	809.0	83.53776	7.0863851548	
+AQ443	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ443	D2	_Pre	736.0	71.46231	6.52142235945	
+AQ4	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ4	D3	_Pre	272.0	30.15172	5.2692278055	
+AQ523	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ523	D4	_Pre	1234.0	111.05503	8.29477784352	
+AQ608	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/12/14	18	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D1	AQ608	D1	_Pre	477.0	48.84129	4.27430601347	
+AQ607	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/12/14	18	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D2	AQ607	D2	_Pre	1358.0	118.96393	8.51777380714	
+AQ90	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ90	D3	_Pre	732.0	88.0467	5.40667163736	
+AQ479	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ479	D4	_Pre	233.0	18.1314	3.1368525979	
+AQ396	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ396	D1	_Pre	609.0	56.30674	5.45158334756	
+AQ447	1	G2-_Pre	NA	_Pre	G2-_Pre	NA	G2-_Pre	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ447	D2	_Pre	892.0	86.78735	6.04721010694	
+AQ8	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ8	D3	_Pre	287.0	33.71366	3.59047413503	
+AQ475	1	G1-_Pre	NA	_Pre	G1-_Pre	G1-_Pre	NA	10/12/14	18	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ475	D4	_Pre	313.0	26.00844	4.53019516992	
+AQ574	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ574	D1	Pos	365.0	45.76979	5.73099482451	60.6
+AQ625	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ625	D2	Pos	577.0	47.21509	6.51171059445	60.6
+AQ56	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ56	D3	Pos	430.0	34.49087	5.73807590869	60.6
+AQ445	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ445	D4	Pos	795.0	78.18634	7.20385422615	60.6
+AQ399	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ399	D2	Pos	393.0	37.66078	4.01593333033	60.6
+AQ12	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/13/14	19	_none	_none	_none	dolphin	dolphin-skin	dolphin-skin-D3	AQ12	D3	Pos	476.0	46.71583	5.17246255293	60.6
+AQ635	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ635	D4	Pos	1330.0	116.22482	8.51898446987	60.6
+AQ422	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ422	D1	Pos	257.0	28.66574	3.93112821834	60.6
+AQ395	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ395	D2	Pos	348.0	33.75716	4.31617169533	60.6
+AQ60	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ60	D3	Pos	278.0	26.02977	3.65903378676	60.6
+AQ631	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/13/14	19	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ631	D4	Pos	877.0	81.16469	6.42682362317	60.6
+AQ808	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ808	D1	Pos	405.0	38.62579	5.95491077123	60.3
+AQ782	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ782	D1	Pos	595.0	48.74445	6.60055080548	60.3
+AQ886	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ886	D1	Pos	406.0	51.0611	5.92286182783	60.3
+AQ860	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ860	D1	Pos	420.0	40.67754	5.16343513402	60.3
+AQ391	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	8:00	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ391	D2	Pos	436.0	55.21897	5.98249491387	60.3
+AQ417	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ417	D2	Pos	473.0	46.52955	5.39129866419	60.3
+AQ755	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ755	D2	Pos	327.0	38.48709	5.33508038024	60.3
+AQ677	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ677	D2	Pos	345.0	30.86056	4.60049208153	60.3
+AQ703	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ703	D2	Pos	396.0	35.95803	5.01771667212	60.3
+AQ108	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ108	D3	Pos	196.0	23.90741	4.31584176835	60.3
+AQ497	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	8:00	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ497	D4	Pos	289.0	37.36242	5.02835216189	60.3
+AQ549	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ549	D4	Pos	372.0	39.99508	5.67842622259	60.3
+AQ575	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ575	D4	Pos	576.0	61.14327	6.26908351625	60.3
+AQ627	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ627	D4	Pos	395.0	43.82403	5.44178571138	60.3
+AQ660	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ660	D1	Pos	228.0	32.28283	3.08900766574	60.3
+AQ894	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D1	AQ894	D1	Pos	408.0	38.73684	3.67821834699	60.3
+AQ425	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	8:00	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D2	AQ425	D2	Pos	486.0	60.95222	5.25074042926	60.3
+AQ685	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D2	AQ685	D2	Pos	1404.0	128.11257	8.32380556343	60.3
+AQ633	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ633	D2	Pos	276.0	25.70578	4.24037886474	60.3
+AQ763	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D2	AQ763	D2	Pos	256.0	28.50213	4.97091653344	60.3
+AQ737	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D2	AQ737	D2	Pos	516.0	49.64509	5.17534514904	60.3
+AQ38	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D3	AQ38	D3	Pos	473.0	61.58479	5.49635157368	60.3
+AQ116	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ116	D3	Pos	487.0	59.00152	5.25311197441	60.3
+AQ453	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	8:00	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D4	AQ453	D4	Pos	148.0	18.23496	2.03297390361	60.3
+AQ505	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D4	AQ505	D4	Pos	184.0	25.46835	2.406274106	60.3
+AQ583	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ583	D4	Pos	231.0	20.48019	2.8093257517	60.3
+AQ609	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D4	AQ609	D4	Pos	124.0	17.49232	2.60291075259	60.3
+AQ838	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ838	D1	Pos	508.0	50.65445	6.63348896605	60.3
+AQ812	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ812	D1	Pos	452.0	38.80631	5.2366700994	60.3
+AQ421	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	8:00	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ421	D2	Pos	95.0	7.64479	2.56712009825	60.3
+AQ707	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	10:00	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ707	D2	Pos	259.0	27.84826	3.84017001621	60.3
+AQ681	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ681	D2	Pos	491.0	45.89266	5.56058349303	60.3
+AQ733	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ733	D2	Pos	484.0	44.86889	5.81709398128	60.3
+AQ112	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ112	D3	Pos	222.0	30.22919	3.71580004277	60.3
+AQ34	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ34	D3	Pos	264.0	32.06202	4.19772818023	60.3
+AQ190	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ190	D3	Pos	336.0	35.08426	4.4031250428	60.3
+AQ164	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ164	D3	Pos	234.0	31.36018	3.69848039255	60.3
+AQ449	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	8:00	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ449	D4	Pos	67.0	11.59219	2.5735376454	60.3
+AQ501	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ501	D4	Pos	272.0	29.7309	4.63235501018	60.3
+AQ605	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ605	D4	Pos	908.0	86.03547	7.15469067643	60.3
+AQ397	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/14/14	20	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ397	D4	Pos	127.0	16.42667	3.33429253055	60.3
+AQ730	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ730	D1	Pos	611.0	58.84847	6.5607354078	60.0
+AQ859	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ859	D2	Pos	382.0	35.28473	4.76728326601	60.0
+AQ419	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ419	D4	Pos	541.0	47.20017	6.32651558417	60.0
+AQ400	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ400	D1	Pos	431.0	40.39745	4.69669344745	60.0
+AQ867	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ867	D2	Pos	650.0	66.02338	5.61195795164	60.0
+AQ142	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ142	D3	Pos	668.0	67.30706	5.6058398705	60.0
+AQ427	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ427	D4	Pos	505.0	41.1652	5.13154053998	60.0
+AQ500	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ500	D1	Pos	376.0	35.08133	4.71890084391	60.0
+AQ863	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ863	D2	Pos	522.0	44.42317	5.90728590184	60.0
+AQ138	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ138	D3	Pos	384.0	31.91126	5.0603613155	60.0
+AQ423	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/15/14	21	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ423	D4	Pos	384.0	33.52099	4.96806848094	60.0
+AQ600	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ600	D1	Pos	476.0	46.43531	6.30259279945	59.1
+AQ885	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ885	D2	Pos	619.0	52.30417	6.78979787243	59.1
+AQ836	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ836	D3	Pos	489.0	40.05236	6.130468458	59.1
+AQ887	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ887	D4	Pos	731.0	71.06505	7.14582642224	59.1
+AQ426	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ426	D1	Pos	461.0	41.97381	4.74246603942	59.1
+AQ893	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ893	D2	Pos	454.0	43.69037	4.80402885024	59.1
+AQ844	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ844	D3	Pos	614.0	58.7338	5.93584673832	59.1
+AQ817	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ817	D4	Pos	412.0	38.38981	4.25821150233	59.1
+AQ604	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ604	D1	Pos	352.0	34.84674	3.60022173522	59.1
+AQ837	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ837	D2	Pos	454.0	40.89744	5.34822629538	59.1
+AQ892	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ892	D3	Pos	276.0	22.93987	3.42252005877	59.1
+AQ839	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/16/14	22	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ839	D4	Pos	323.0	26.07814	4.56764919911	59.1
+AQ496	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ496	D1	Pos	492.0	45.7709	5.71564434088	59.7
+AQ833	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ833	D2	Pos	456.0	41.70467	5.2758238062	59.7
+AQ810	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ810	D3	Pos	479.0	40.74291	5.98890461739	59.7
+AQ861	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ861	D4	Pos	556.0	50.5242	6.42877840448	59.7
+AQ712	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ712	D1	Pos	356.0	29.81128	3.90018765977	59.7
+AQ841	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ841	D2	Pos	508.0	44.12905	5.28764434046	59.7
+AQ792	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ792	D3	Pos	483.0	45.32722	5.34513988054	59.7
+AQ843	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ843	D4	Pos	521.0	50.32977	4.41630222052	59.7
+AQ656	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ656	D1	Pos	438.0	40.43663	5.39091901714	59.7
+AQ889	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ889	D2	Pos	532.0	45.5306	5.70613491756	59.7
+AQ840	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ840	D3	Pos	398.0	30.77918	4.95796611278	59.7
+AQ891	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/17/14	23	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ891	D4	Pos	396.0	30.91522	4.73380779942	59.7
+AQ548	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ548	D1	Pos	372.0	33.84386	4.84776957339	59.2
+AQ781	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ781	D2	Pos	427.0	41.0016	5.29295071675	59.2
+AQ888	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ888	D3	Pos	454.0	38.59394	5.65243672403	59.2
+AQ835	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ835	D4	Pos	592.0	45.71788	6.33241721866	59.2
+AQ816	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ816	D1	Pos	282.0	21.34718	3.30063026655	59.2
+AQ815	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ815	D2	Pos	551.0	49.03569	5.79852524411	59.2
+AQ818	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ818	D3	Pos	617.0	58.5949	6.05980402125	59.2
+AQ869	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ869	D4	Pos	349.0	28.56693	3.45719673002	59.2
+AQ786	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ786	D1	Pos	418.0	33.75758	5.11672308838	59.2
+AQ785	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ785	D2	Pos	367.0	27.54329	4.64343664991	59.2
+AQ866	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ866	D3	Pos	382.0	31.75331	5.08249079796	59.2
+AQ865	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/18/14	24	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ865	D4	Pos	402.0	39.49079	4.46004234908	59.2
+AQ1120	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1120	D1	Pos	535.0	51.03707	6.36421735205	59.8
+AQ989	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ989	D2	Pos	266.0	24.98798	4.32657551933	59.8
+AQ914	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ914	D3	Pos	461.0	38.44826	5.8342005743	59.8
+AQ1095	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1095	D4	Pos	579.0	50.66976	6.8643410444	59.8
+AQ1128	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1128	D1	Pos	433.0	34.34388	5.30776430584	59.8
+AQ1075	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1075	D2	Pos	491.0	45.18383	5.28643240673	59.8
+AQ974	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ974	D3	Pos	490.0	43.85943	5.55031362867	59.8
+AQ1051	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1051	D4	Pos	523.0	47.06251	4.71005542913	59.8
+AQ967	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ967	D2	Pos	319.0	24.01633	4.09181414144	59.8
+AQ1074	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1074	D3	Pos	421.0	37.87441	5.1226483343	59.8
+AQ1073	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/19/14	25	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1073	D4	Pos	348.0	31.634	4.67441546124	59.8
+AQ1042	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1042	D1	Pos	532.0	48.0083	6.14772134544	59.8
+AQ1093	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1093	D2	Pos	617.0	56.13126	6.50770178282	59.8
+AQ966	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ966	D3	Pos	440.0	38.04847	5.78678264365	59.8
+AQ1121	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1121	D4	Pos	604.0	49.87864	6.88735979668	59.8
+AQ946	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ946	D1	Pos	426.0	41.2167	3.81576565495	59.8
+AQ997	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ997	D2	Pos	484.0	44.25142	5.49676338372	59.8
+AQ1078	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1078	D3	Pos	599.0	54.1971	6.16704405758	59.8
+AQ947	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ947	D4	Pos	424.0	35.05544	4.71942086455	59.8
+AQ1072	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1072	D1	Pos	372.0	33.40314	4.44152037108	59.8
+AQ1149	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1149	D2	Pos	353.0	32.18969	3.60721412738	59.8
+AQ1308	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1308	D3	Pos	345.0	33.00276	4.14008333984	59.8
+AQ1099	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/20/14	26	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1099	D4	Pos	412.0	37.8732	5.27077502606	59.8
+AQ1068	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1068	D1	Pos	683.0	62.85866	7.09055943715	59.8
+AQ1041	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1041	D2	Pos	367.0	36.81137	4.8414148748	59.8
+AQ1018	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1018	D3	Pos	588.0	57.66523	6.52348561552	59.8
+AQ1043	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1043	D4	Pos	616.0	51.32105	6.80114810926	59.8
+AQ1102	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1102	D1	Pos	518.0	44.35495	5.64417475635	59.8
+AQ1049	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1049	D2	Pos	523.0	44.41105	5.68674616962	59.8
+AQ922	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ922	D3	Pos	579.0	53.68011	6.17296127226	59.8
+AQ973	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ973	D4	Pos	395.0	32.47628	3.9452310443	59.8
+AQ1306	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1306	D1	Pos	437.0	37.28494	5.41641993265	59.8
+AQ1071	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1071	D2	Pos	234.0	16.25787	3.94774780219	59.8
+AQ1230	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1230	D3	Pos	246.0	22.59597	3.98762980148	59.8
+AQ1021	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/21/14	27	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1021	D4	Pos	274.0	20.50268	4.15309269262	59.8
+AQ1302	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/22/14	28	8:30	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1302	D1	Pos	356.0	36.21319	4.68653599255	60.8
+AQ1327	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/22/14	28	8:30	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1327	D2	Pos	420.0	33.96778	5.13880753087	60.8
+AQ1096	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/22/14	28	8:26	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1096	D3	Pos	430.0	34.70361	5.95142820526	60.8
+AQ1303	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/22/14	28	8:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1303	D4	Pos	580.0	53.38962	6.7218740605	60.8
+AQ1310	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/22/14	28	8:33	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D1	AQ1310	D1	Pos	401.0	30.30988	4.18260041901	60.8
+AQ1023	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/22/14	28	8:30	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D2	AQ1023	D2	Pos	564.0	53.49641	5.74635147833	60.8
+AQ1052	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/22/14	28	8:26	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D3	AQ1052	D3	Pos	636.0	57.8064	6.00663037215	60.8
+AQ1129	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/22/14	28	8:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D4	AQ1129	D4	Pos	373.0	32.41583	3.88550390091	60.8
+AQ1228	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/22/14	28	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1228	D1	Pos	340.0	26.7727	4.96562434845	60.8
+AQ1019	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/22/14	28	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1019	D2	Pos	466.0	38.38248	5.31545065323	60.8
+AQ1178	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/22/14	28	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1178	D3	Pos	441.0	38.86129	5.07487745701	60.8
+AQ1125	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/22/14	28	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1125	D4	Pos	143.0	16.9127	4.11625264223	60.8
+AQ1224	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1224	D1	Pos	525.0	47.23072	6.38136243114	60.3
+AQ1067	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1067	D2	Pos	394.0	33.96543	4.98444811995	60.3
+AQ1070	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1070	D3	Pos	476.0	39.21129	5.90955418731	60.3
+AQ1251	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1251	D4	Pos	556.0	45.03676	6.53698942484	60.3
+AQ1232	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1232	D1	Pos	595.0	56.44296	4.76058893802	60.3
+AQ1153	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1153	D2	Pos	650.0	61.31303	5.6006107121	60.3
+AQ1234	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1234	D3	Pos	581.0	56.24906	5.75798601124	60.3
+AQ1311	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1311	D4	Pos	335.0	26.16477	3.23457259505	60.3
+AQ1176	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1176	D1	Pos	631.0	53.03282	6.29435247917	60.3
+AQ993	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ993	D2	Pos	426.0	38.87802	5.6456638929	60.3
+AQ1204	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1204	D3	Pos	487.0	45.98307	5.27243408238	60.3
+AQ1047	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/23/14	29	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1047	D4	Pos	275.0	20.1115	4.53362442026	60.3
+AQ1198	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1198	D1	Pos	541.0	46.15749	6.33084690831	60.8
+AQ1223	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1223	D2	Pos	274.0	25.32169	4.20985750059	60.8
+AQ1044	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1044	D3	Pos	500.0	41.14184	6.20184236331	60.8
+AQ783	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ783	D4	Pos	476.0	47.38798	5.51133246885	60.8
+AQ1154	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1154	D1	Pos	526.0	47.92802	4.87193912009	60.8
+AQ1257	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1257	D2	Pos	791.0	74.72734	6.3886959744	60.8
+AQ896	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ896	D3	Pos	663.0	62.89904	5.80528775275	60.8
+AQ1233	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1233	D4	Pos	547.0	47.89246	4.79810194624	60.8
+AQ1202	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1202	D1	Pos	415.0	39.72383	4.73391534452	60.8
+AQ1045	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1045	D2	Pos	192.0	14.80897	3.72143864489	60.8
+AQ1126	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1126	D3	Pos	194.0	14.96379	3.43397529785	60.8
+AQ1307	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/24/14	30	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1307	D4	Pos	310.0	23.74309	4.51302937732	60.8
+AQ1146	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1146	D1	Pos	506.0	45.0696	5.74910916248	60.8
+AQ1171	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1171	D2	Pos	555.0	49.43557	5.94836416861	60.8
+AQ992	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ992	D3	Pos	425.0	35.11526	5.33584525227	60.8
+AQ1173	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1173	D4	Pos	649.0	50.96638	6.87634604985	60.8
+AQ1076	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1076	D1	Pos	337.0	25.81216	3.56873124159	60.8
+AQ1231	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1231	D2	Pos	461.0	41.86794	4.65363290618	60.8
+AQ1104	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1104	D3	Pos	612.0	58.92732	5.85855011109	60.8
+AQ1207	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1207	D4	Pos	351.0	31.25293	3.14783912783	60.8
+AQ1020	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1020	D1	Pos	255.0	23.40101	3.1691415067	60.8
+AQ1097	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1097	D2	Pos	380.0	30.52962	5.0146004209	60.8
+AQ996	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ996	D3	Pos	308.0	27.42387	4.01810577926	60.8
+AQ969	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/25/14	31	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ969	D4	Pos	271.0	22.30444	4.37593726721	60.8
+AQ990	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ990	D1	Pos	414.0	39.2425	5.24363288075	59.5
+AQ1197	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1197	D2	Pos	597.0	50.82598	6.76609835948	59.5
+AQ940	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ940	D3	Pos	557.0	46.79883	6.3020877046	59.5
+AQ1199	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1199	D4	Pos	632.0	51.51763	6.8109107368	59.5
+AQ972	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ972	D1	Pos	333.0	25.00548	3.04280862217	59.5
+AQ1179	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1179	D2	Pos	744.0	72.15282	6.48941935973	59.5
+AQ1026	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1026	D3	Pos	912.0	84.0982	7.28302676145	59.5
+AQ1181	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1181	D4	Pos	272.0	20.70451	3.49756918481	59.5
+AQ1098	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1098	D1	Pos	382.0	35.11345	4.68784985873	59.5
+AQ941	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ941	D2	Pos	262.0	18.71445	4.1635115533	59.5
+AQ944	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ944	D3	Pos	653.0	61.59707	5.59252933775	59.5
+AQ943	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/26/14	32	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ943	D4	Pos	294.0	24.21399	4.4438690577	59.5
+AQ1250	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1250	D1	Pos	406.0	37.01628	4.97918719783	59.5
+AQ1249	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1249	D2	Pos	467.0	41.27561	5.32781550012	59.5
+AQ1460	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1460	D3	Pos	308.0	29.79849	4.65562619237	59.5
+AQ1225	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1225	D4	Pos	504.0	45.30763	5.84805332158	59.5
+AQ1544	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1544	D1	Pos	497.0	41.21161	4.68786266189	59.5
+AQ1283	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1283	D2	Pos	700.0	68.46821	5.60511098814	59.5
+AQ1494	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1494	D3	Pos	674.0	65.60674	5.40219995133	59.5
+AQ1519	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1519	D4	Pos	326.0	25.84831	3.56087584814	59.5
+AQ1436	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1436	D1	Pos	494.0	45.92717	6.02455954148	59.5
+AQ1539	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1539	D2	Pos	408.0	36.1592	5.06073063922	59.5
+AQ1490	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1490	D3	Pos	216.0	17.90916	3.53417576254	59.5
+AQ1541	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/27/14	33	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1541	D4	Pos	351.0	27.30867	4.68893079682	59.5
+AQ1432	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1432	D1	Pos	374.0	35.8977	4.91020100825	59.8
+AQ1535	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1535	D2	Pos	485.0	42.24303	5.59786172532	59.8
+AQ1538	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1538	D3	Pos	441.0	34.76972	5.80322211483	59.8
+AQ1537	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1537	D4	Pos	557.0	48.20426	6.45948279425	59.8
+AQ1518	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1518	D1	Pos	248.0	19.83852	3.21938573444	59.8
+AQ1517	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1517	D2	Pos	453.0	39.12269	5.08430885405	59.8
+AQ1546	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1546	D3	Pos	640.0	57.8862	5.97072909868	59.8
+AQ1545	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1545	D4	Pos	297.0	21.55214	3.36034115501	59.8
+AQ1540	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1540	D1	Pos	265.0	25.20197	3.66499159382	59.8
+AQ1435	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1435	D2	Pos	399.0	32.0711	4.95185848683	59.8
+AQ1542	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1542	D3	Pos	352.0	35.15639	4.16445357059	59.8
+AQ1463	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/28/14	34	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1463	D4	Pos	456.0	39.07071	5.67995767697	59.8
+AQ1484	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1484	D1	Pos	412.0	38.29678	5.08841239615	59.8
+AQ1509	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1509	D2	Pos	568.0	49.52378	6.07912119915	59.8
+AQ1434	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1434	D3	Pos	442.0	35.04845	5.92060823056	59.8
+AQ1485	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1485	D4	Pos	617.0	54.28041	6.7961779892	59.8
+AQ1440	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1440	D1	Pos	410.0	31.91164	4.18908266534	59.8
+AQ1543	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1543	D2	Pos	630.0	60.77679	6.28855553353	59.8
+AQ1442	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1442	D3	Pos	546.0	55.36077	5.73277897215	59.8
+AQ1493	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1493	D4	Pos	350.0	29.22924	3.73874295522	59.8
+AQ1488	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1488	D1	Pos	461.0	42.00724	5.83465971897	59.8
+AQ1513	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1513	D2	Pos	403.0	40.94393	5.10557223054	59.8
+AQ1464	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1464	D3	Pos	361.0	32.52931	4.73225658708	59.8
+AQ1489	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/29/14	35	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1489	D4	Pos	142.0	14.81049	3.8997711623	59.8
+AQ1536	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1536	D1	Pos	528.0	45.27063	6.12224016378	60.0
+AQ1457	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1457	D2	Pos	497.0	47.13008	6.28293063022	60.0
+AQ1486	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1486	D3	Pos	473.0	37.15284	6.03358649925	60.0
+AQ1433	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1433	D4	Pos	529.0	49.05118	5.95867171917	60.0
+AQ1466	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1466	D1	Pos	253.0	20.37097	3.34312246196	60.0
+AQ1439	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1439	D2	Pos	445.0	40.9565	5.19589647952	60.0
+AQ1520	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1520	D3	Pos	593.0	56.47426	6.03071141063	60.0
+AQ1467	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1467	D4	Pos	314.0	21.34461	3.9308605689	60.0
+AQ1514	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1514	D1	Pos	450.0	38.59431	5.59018736832	60.0
+AQ1461	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1461	D2	Pos	484.0	44.34937	5.6303793395	60.0
+AQ1516	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1516	D3	Pos	393.0	35.00795	5.12103777433	60.0
+AQ1437	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/30/14	36	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1437	D4	Pos	261.0	21.42116	4.13460369022	60.0
+AQ1510	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1510	D1	Pos	426.0	38.34967	5.23259360636	60.4
+AQ1431	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1431	D2	Pos	575.0	47.45638	6.55824238701	60.4
+AQ1512	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1512	D3	Pos	510.0	42.4963	6.20266087592	60.4
+AQ1459	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1459	D4	Pos	559.0	42.15181	6.51418286425	60.4
+AQ1492	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1492	D1	Pos	368.0	31.99055	3.98031858232	60.4
+AQ1491	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1491	D2	Pos	499.0	45.45374	5.53363019624	60.4
+AQ1468	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1468	D3	Pos	419.0	42.73568	5.17212708287	60.4
+AQ1441	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1441	D4	Pos	275.0	21.22309	2.82391315705	60.4
+AQ1332	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1332	D1	Pos	411.0	35.88198	5.39118393116	60.4
+AQ1438	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1438	D3	Pos	392.0	30.92584	5.14704104277	60.4
+AQ1281	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	10/31/14	37	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1281	D4	Pos	290.0	23.30437	4.27045739291	60.4
+AQ1458	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1458	D1	Pos	377.0	34.39585	5.09653888958	59.3
+AQ1483	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1483	D2	Pos	630.0	55.67854	6.59568541329	59.3
+AQ1122	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1122	D3	Pos	501.0	41.14392	6.22230087835	59.3
+AQ1362	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1362	D1	Pos	293.0	25.69025	2.99853114148	59.3
+AQ1465	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1465	D2	Pos	570.0	56.62127	5.60013179301	59.3
+AQ1286	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1286	D3	Pos	482.0	51.095	5.32081498991	59.3
+AQ1337	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1337	D4	Pos	278.0	22.62052	3.47507452187	59.3
+AQ1462	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1462	D1	Pos	599.0	53.46679	6.11568038357	59.3
+AQ1279	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1279	D2	Pos	381.0	37.53908	5.14411133054	59.3
+AQ1256	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1256	D3	Pos	234.0	19.14575	3.95199730801	59.3
+AQ1515	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/01/14	38	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1515	D4	Pos	275.0	17.94871	4.57514630184	59.3
+AQ1276	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1276	D1	Pos	616.0	63.47962	6.51727724189	58.5
+AQ1353	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1353	D2	Pos	621.0	57.15737	6.82190774559	58.5
+AQ1278	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1278	D3	Pos	534.0	43.41456	6.25465382571	58.5
+AQ1511	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1511	D4	Pos	627.0	52.96605	6.96358152738	58.5
+AQ1414	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1414	D1	Pos	534.0	49.89921	5.16273706156	58.5
+AQ1335	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1335	D2	Pos	609.0	59.39276	5.71953530533	58.5
+AQ1390	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1390	D3	Pos	483.0	49.99229	5.53442678803	58.5
+AQ1285	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1285	D4	Pos	368.0	30.61861	3.85265250787	58.5
+AQ1254	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1254	D1	Pos	424.0	37.13069	5.5093992583	58.5
+AQ1305	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1305	D2	Pos	211.0	16.8438	3.75800794802	58.5
+AQ1282	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1282	D3	Pos	364.0	33.78296	4.57840776483	58.5
+AQ1255	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/02/14	39	12:00	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1255	D4	Pos	263.0	17.50281	4.2750674257	58.5
+AQ1380	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1380	D1	Pos	495.0	44.03762	6.06123667146	57.2
+AQ1301	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1301	D2	Pos	652.0	57.81162	6.30434158138	57.2
+AQ1356	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1356	D3	Pos	469.0	35.20824	6.01160146901	57.2
+AQ1277	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1277	D4	Pos	580.0	46.62033	6.58419659327	57.2
+AQ1258	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1258	D1	Pos	520.0	41.39792	4.80838119129	57.2
+AQ1361	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1361	D2	Pos	644.0	56.39719	6.00857953001	57.2
+AQ1338	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1338	D3	Pos	863.0	79.6538	6.80710070328	57.2
+AQ1389	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1389	D4	Pos	436.0	39.73919	3.82059463133	57.2
+AQ1384	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1384	D1	Pos	275.0	28.18064	3.04707076661	57.2
+AQ1357	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1357	D2	Pos	205.0	11.59004	4.06652735705	57.2
+AQ1360	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1360	D3	Pos	381.0	40.07087	3.92782698252	57.2
+AQ1359	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/03/14	40	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1359	D4	Pos	672.0	58.82008	6.66794636551	57.2
+AQ1354	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1354	D1	Pos	432.0	38.14782	5.46658817099	56.4
+AQ1406	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1406	D1	Pos	520.0	49.19035	5.90629794119	56.4
+AQ1328	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1328	D1	Pos	454.0	38.51656	5.56246070828	56.4
+AQ1094	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ1094	D1	Pos	433.0	42.21672	5.39094058795	56.4
+AQ912	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D1	AQ912	D1	Pos	492.0	44.50772	5.95164065084	56.4
+AQ1275	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1275	D2	Pos	629.0	49.85377	6.81320766547	56.4
+AQ1379	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1379	D2	Pos	632.0	50.62457	6.80017849742	56.4
+AQ1405	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1405	D2	Pos	186.0	19.59172	3.81682203971	56.4
+AQ1119	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D2	AQ1119	D2	Pos	564.0	48.52144	6.37978680574	56.4
+AQ1252	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1252	D3	Pos	374.0	33.49943	5.01953993652	56.4
+AQ1382	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1382	D3	Pos	391.0	35.47113	5.24267166347	56.4
+AQ1408	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ1408	D3	Pos	385.0	34.82517	5.18361052635	56.4
+AQ862	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ862	D3	Pos	474.0	38.44908	5.89712426779	56.4
+AQ784	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ784	D3	Pos	234.0	24.71644	3.80495327423	56.4
+AQ1381	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1381	D4	Pos	560.0	46.87929	6.35102022064	56.4
+AQ1329	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ1329	D4	Pos	583.0	51.54381	6.64972617853	56.4
+AQ991	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ991	D4	Pos	559.0	50.88149	6.43858761786	56.4
+AQ913	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-chuff	dolphin-chuff-D4	AQ913	D4	Pos	526.0	45.97462	6.68595452618	56.4
+AQ1336	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D1	AQ1336	D1	Pos	550.0	53.44498	4.80996005389	56.4
+AQ1284	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D1	AQ1284	D1	Pos	703.0	64.60622	5.61572175559	56.4
+AQ1388	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D1	AQ1388	D1	Pos	333.0	30.00678	3.32732695883	56.4
+AQ920	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D1	AQ920	D1	Pos	534.0	48.33126	4.55608359548	56.4
+AQ998	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D1	AQ998	D1	Pos	472.0	38.9767	4.23594116988	56.4
+AQ1387	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D2	AQ1387	D2	Pos	548.0	54.47403	4.66484165224	56.4
+AQ1309	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D2	AQ1309	D2	Pos	868.0	76.36481	6.80713488498	56.4
+AQ1413	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D2	AQ1413	D2	Pos	681.0	59.06304	5.86180010977	56.4
+AQ1205	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D2	AQ1205	D2	Pos	741.0	75.16252	5.46215525402	56.4
+AQ945	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D2	AQ945	D2	Pos	476.0	46.8565	4.31108862705	56.4
+AQ1260	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D3	AQ1260	D3	Pos	748.0	69.61768	6.26349652838	56.4
+AQ1364	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D3	AQ1364	D3	Pos	774.0	76.11697	6.93023046063	56.4
+AQ1416	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D3	AQ1416	D3	Pos	904.0	80.07668	6.46517490369	56.4
+AQ1000	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D3	AQ1000	D3	Pos	587.0	48.39687	6.23486370766	56.4
+AQ870	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D3	AQ870	D3	Pos	471.0	45.22734	4.68033542038	56.4
+AQ1259	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-skin	dolphin-skin-D4	AQ1259	D4	Pos	217.0	12.29126	2.45473805539	56.4
+AQ1415	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-skin	dolphin-skin-D4	AQ1415	D4	Pos	636.0	50.73823	5.43785706351	56.4
+AQ1363	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-skin	dolphin-skin-D4	AQ1363	D4	Pos	654.0	59.47947	5.24083520023	56.4
+AQ921	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-skin	dolphin-skin-D4	AQ921	D4	Pos	231.0	14.75049	2.9142784667	56.4
+AQ1155	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-skin	dolphin-skin-D4	AQ1155	D4	Pos	400.0	36.45599	3.71866769749	56.4
+AQ1410	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1410	D1	Pos	162.0	13.2804	2.87278482852	56.4
+AQ1280	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1280	D1	Pos	429.0	39.01056	5.12120296152	56.4
+AQ1358	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1358	D1	Pos	527.0	49.91403	5.99382196963	56.4
+AQ1150	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ1150	D1	Pos	410.0	37.8416	5.02274029783	56.4
+AQ968	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D1	AQ968	D1	Pos	344.0	32.74025	4.67071130697	56.4
+AQ1409	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1409	D2	Pos	180.0	10.43904	4.03794609978	56.4
+AQ1331	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1331	D2	Pos	561.0	51.22411	6.13276102262	56.4
+AQ1383	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1383	D2	Pos	303.0	31.51576	3.66065341965	56.4
+AQ1253	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1253	D2	Pos	321.0	30.40378	4.24144334504	56.4
+AQ1227	1	NA	G2-Post	Post	G2-Post	NA	G2-Post	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D2	AQ1227	D2	Pos	346.0	33.38783	3.94772407219	56.4
+AQ1386	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1386	D3	Pos	162.0	17.79379	2.9383347485	56.4
+AQ1334	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1334	D3	Pos	238.0	23.35565	3.07263526448	56.4
+AQ1412	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1412	D3	Pos	457.0	37.63508	5.01834388053	56.4
+AQ1100	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1100	D3	Pos	358.0	28.90155	4.25653136552	56.4
+AQ1022	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D3	AQ1022	D3	Pos	356.0	34.87448	4.25358024877	56.4
+AQ1385	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	7:40	1	am-08-10	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1385	D4	Pos	265.0	20.18478	4.49447721313	56.4
+AQ1333	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	10:30	2	am-10-12	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1333	D4	Pos	108.0	10.65572	4.08208471331	56.4
+AQ1411	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	12:30	3	pm-12-2	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1411	D4	Pos	427.0	37.97092	5.07987743786	56.4
+AQ1229	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	14:30	4	pm-2-4	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1229	D4	Pos	337.0	25.16336	4.79034573625	56.4
+AQ1177	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	11/04/14	41	16:30	5	pm-4-6	dolphin	dolphin-rectum	dolphin-rectum-D4	AQ1177	D4	Pos	408.0	35.69668	4.78164178288	56.4
+AQ602	1	NA	G1-Post	Post	G1-Post	G1-Post	NA	_none	_none	12:00	3	pm-12-2	dolphin	dolphin-chuff	dolphin-chuff-D3	AQ602	D3	NA	313.0	40.2191	5.65587044543	
+AQ101	1	NA	NA	NA	NA	NA	NA	09/24/14	0	14:55	4	pm-2-4	food	food	food	AQ101	food	_Pre	1201.0	110.91859	8.47038336587	61.5
+AQ127	1	NA	NA	NA	NA	NA	NA	09/25/14	1	14:30	4	pm-2-4	food	food	food	AQ127	food	_Pre	1152.0	100.16684	8.41002742517	61.8
+AQ179	1	NA	NA	NA	NA	NA	NA	09/26/14	2	13:50	3	pm-12-2	food	food	food	AQ179	food	_Pre	1004.0	93.01113	8.40354309578	62.9
+AQ75	1	NA	NA	NA	NA	NA	NA	09/27/14	3	14:20	4	pm-2-4	food	food	food	AQ75	food	_Pre	1125.0	102.59226	8.16207867863	
+AQ491	1	NA	NA	NA	NA	NA	NA	09/28/14	4	10:00	2	am-10-12	food	food	food	AQ491	food	_Pre	1185.0	103.0869	8.47346419663	62.4
+AQ673	1	NA	NA	NA	NA	NA	NA	09/29/14	5	15:16	4	pm-2-4	food	food	food	AQ673	food	_Pre	1139.0	104.81634	8.46474404876	
+AQ335	1	NA	NA	NA	NA	NA	NA	09/30/14	6	14:35	4	pm-2-4	food	food	food	AQ335	food	_Pre	1173.0	101.77815	8.5334545401	61.8
+AQ257	1	NA	NA	NA	NA	NA	NA	10/02/14	8	14:27	4	pm-2-4	food	food	food	AQ257	food	_Pre	1034.0	95.08547	8.21771802487	
+AQ387	1	NA	NA	NA	NA	NA	NA	10/03/14	9	14:45	4	pm-2-4	food	food	food	AQ387	food	_Pre	1146.0	101.16642	8.4033463897	62.4
+AQ283	1	NA	NA	NA	NA	NA	NA	10/04/14	10	14:25	4	pm-2-4	food	food	food	AQ283	food	_Pre	1190.0	103.17048	8.42929446961	61.3
+AQ153	1	NA	NA	NA	NA	NA	NA	10/05/14	11	10:40	2	am-10-12	food	food	food	AQ153	food	_Pre	1184.0	103.63995	8.37710827423	60.9
+AQ205	1	NA	NA	NA	NA	NA	NA	10/06/14	12	13:50	3	pm-12-2	food	food	food	AQ205	food	_Pre	1178.0	103.78178	8.34991482992	60.2
+AQ231	1	NA	NA	NA	NA	NA	NA	10/07/14	13	14:35	4	pm-2-4	food	food	food	AQ231	food	_Pre	1019.0	89.04596	8.34722289954	60.1
+AQ23	1	NA	NA	NA	NA	NA	NA	10/08/14	14	14:31	4	pm-2-4	food	food	food	AQ23	food	_Pre	1131.0	104.39966	8.30542399755	
+AQ49	1	NA	NA	NA	NA	NA	NA	10/09/14	15	14:20	4	pm-2-4	food	food	food	AQ49	food	_Pre	1195.0	103.86014	8.39209258254	
+AQ361	1	NA	NA	NA	NA	NA	NA	10/10/14	16	14:27	4	pm-2-4	food	food	food	AQ361	food	_Pre	943.0	94.19159	7.75178545113	60.5
+AQ647	1	NA	NA	NA	NA	NA	NA	10/11/14	17	14:35	4	pm-2-4	food	food	food	AQ647	food	_Pre	1156.0	100.86747	8.49190371065	
+AQ725	1	NA	NA	NA	NA	NA	NA	10/12/14	18	11:17	2	am-10-12	food	food	food	AQ725	food	_Pre	987.0	90.53774	8.30178438047	
+AQ569	1	NA	NA	NA	NA	NA	NA	10/13/14	19	14:45	4	pm-2-4	food	food	food	AQ569	food	Pos	1093.0	99.77701	8.36193972518	60.6
+AQ413	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	food	food	food	AQ413	food	Pos	1113.0	99.54857	8.46475141679	60.3
+AQ543	1	NA	NA	NA	NA	NA	NA	10/15/14	21	14:45	4	pm-2-4	food	food	food	AQ543	food	Pos	1139.0	102.80145	8.31180568155	60.0
+AQ621	1	NA	NA	NA	NA	NA	NA	10/16/14	22	14:18	4	pm-2-4	food	food	food	AQ621	food	Pos	1053.0	98.15652	8.228377838	59.1
+AQ829	1	NA	NA	NA	NA	NA	NA	10/17/14	23	14:35	4	pm-2-4	food	food	food	AQ829	food	Pos	1039.0	97.26065	8.32471942402	59.7
+AQ803	1	NA	NA	NA	NA	NA	NA	10/18/14	24	14:21	4	pm-2-4	food	food	food	AQ803	food	Pos	1070.0	96.63682	7.83129660186	59.2
+AQ855	1	NA	NA	NA	NA	NA	NA	10/19/14	25	14:35	4	pm-2-4	food	food	food	AQ855	food	Pos	1232.0	107.63848	8.51060462963	59.8
+AQ699	1	NA	NA	NA	NA	NA	NA	10/22/14	28	14:38	4	pm-2-4	food	food	food	AQ699	food	Pos	1333.0	112.98244	8.62875206769	60.8
+AQ751	1	NA	NA	NA	NA	NA	NA	10/23/14	29	14:28	4	pm-2-4	food	food	food	AQ751	food	Pos	1309.0	111.71498	8.53424944972	60.3
+AQ517	1	NA	NA	NA	NA	NA	NA	10/24/14	30	14:05	4	pm-2-4	food	food	food	AQ517	food	Pos	1321.0	113.33035	8.81613783468	60.8
+AQ777	1	NA	NA	NA	NA	NA	NA	10/25/14	31	14:30	4	pm-2-4	food	food	food	AQ777	food	Pos	1171.0	102.8861	8.35825054941	60.8
+AQ1167	1	NA	NA	NA	NA	NA	NA	10/26/14	32	14:12	4	pm-2-4	food	food	food	AQ1167	food	Pos	1178.0	109.39904	8.24135166287	59.5
+AQ881	1	NA	NA	NA	NA	NA	NA	10/27/14	33	14:11	4	pm-2-4	food	food	food	AQ881	food	Pos	1114.0	96.23517	8.31914826102	59.5
+AQ439	1	NA	NA	NA	NA	NA	NA	10/28/14	34	14:24	4	pm-2-4	food	food	food	AQ439	food	Pos	1170.0	104.16095	8.37859443918	59.8
+AQ1115	1	NA	NA	NA	NA	NA	NA	10/29/14	35	14:10	4	pm-2-4	food	food	food	AQ1115	food	Pos	907.0	81.09264	8.1863534207	59.8
+AQ1271	1	NA	NA	NA	NA	NA	NA	10/30/14	36	14:55	4	pm-2-4	food	food	food	AQ1271	food	Pos	1070.0	93.94604	8.42583068187	60.0
+AQ1323	1	NA	NA	NA	NA	NA	NA	10/31/14	37	14:30	4	pm-2-4	food	food	food	AQ1323	food	Pos	1161.0	99.09649	8.50177957623	60.4
+AQ1089	1	NA	NA	NA	NA	NA	NA	11/01/14	38	14:54	4	pm-2-4	food	food	food	AQ1089	food	Pos	1107.0	102.88718	8.42361142971	59.3
+AQ1063	1	NA	NA	NA	NA	NA	NA	11/02/14	39	14:18	4	pm-2-4	food	food	food	AQ1063	food	Pos	1143.0	104.35257	8.45549610903	58.5
+AQ1245	1	NA	NA	NA	NA	NA	NA	11/03/14	40	14:35	4	pm-2-4	food	food	food	AQ1245	food	Pos	1020.0	93.02652	8.25875443864	57.2
+AQ985	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:10	4	pm-2-4	food	food	food	AQ985	food	Pos	1355.0	118.49248	8.68662416357	56.4
+AQ381	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ381	handler	_Pre	657.0	66.56478	6.01576591252	61.5
+AQ382	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ382	handler	_Pre	639.0	57.71357	6.28785696152	61.5
+AQ383	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ383	handler	_Pre	422.0	47.43978	4.48594886738	61.5
+AQ384	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ384	handler	_Pre	474.0	41.82811	5.19190728671	61.5
+AQ351	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ351	handler	_Pre	481.0	48.58385	4.88404944927	61.5
+AQ378	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ378	handler	_Pre	409.0	38.11173	4.67442294904	61.5
+AQ379	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ379	handler	_Pre	309.0	35.65928	3.84978083509	61.5
+AQ380	1	NA	NA	NA	NA	NA	NA	09/24/14	0	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ380	handler	_Pre	654.0	73.0116	5.5593388417	61.5
+AQ355	1	NA	NA	NA	NA	NA	NA	09/25/14	1	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ355	handler	_Pre	472.0	54.99241	4.78865369911	61.8
+AQ356	1	NA	NA	NA	NA	NA	NA	09/25/14	1	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ356	handler	_Pre	672.0	65.09602	6.30914801508	61.8
+AQ357	1	NA	NA	NA	NA	NA	NA	09/25/14	1	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ357	handler	_Pre	858.0	90.23589	7.16701294283	61.8
+AQ352	1	NA	NA	NA	NA	NA	NA	09/25/14	1	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ352	handler	_Pre	502.0	52.37289	4.8969307999	61.8
+AQ353	1	NA	NA	NA	NA	NA	NA	09/25/14	1	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ353	handler	_Pre	799.0	79.42626	5.81088902632	61.8
+AQ377	1	NA	NA	NA	NA	NA	NA	09/25/14	1	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ377	handler	_Pre	490.0	56.80486	4.79756195558	61.8
+AQ303	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ303	handler	_Pre	869.0	84.19729	7.07827375496	62.9
+AQ304	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ304	handler	_Pre	416.0	42.46589	3.82247972811	62.9
+AQ305	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ305	handler	_Pre	707.0	62.78019	6.31712027454	62.9
+AQ358	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ358	handler	_Pre	475.0	49.69965	5.82978238481	62.9
+AQ299	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ299	handler	_Pre	460.0	52.70239	4.74605769202	62.9
+AQ300	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ300	handler	_Pre	416.0	43.67322	4.18533486366	62.9
+AQ301	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ301	handler	_Pre	755.0	76.08268	6.08592806264	62.9
+AQ354	1	NA	NA	NA	NA	NA	NA	09/26/14	2	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ354	handler	_Pre	206.0	27.35956	2.81197575309	62.9
+AQ329	1	NA	NA	NA	NA	NA	NA	09/27/14	3	_none	_none	_none	human	human-hand	human-hand-handler	AQ329	handler	_Pre	543.0	58.48607	5.87062979491	
+AQ306	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ306	handler	_Pre	359.0	40.54043	4.20398405427	
+AQ330	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ330	handler	_Pre	567.0	56.71311	6.41059816636	
+AQ331	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ331	handler	_Pre	228.0	31.40216	4.96706893201	
+AQ222	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ222	handler	_Pre	665.0	69.46767	6.64064054135	
+AQ247	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ247	handler	_Pre	149.0	27.06106	2.32251369592	
+AQ302	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ302	handler	_Pre	858.0	87.79545	7.2545374029	
+AQ327	1	NA	NA	NA	NA	NA	NA	09/27/14	3	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ327	handler	_Pre	226.0	29.72536	4.03312074039	
+AQ279	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ279	handler	_Pre	1147.0	111.94821	8.05120358242	62.4
+AQ280	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ280	handler	_Pre	726.0	80.48285	5.9781253514	62.4
+AQ332	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ332	handler	_Pre	771.0	82.3054	7.07031034557	62.4
+AQ275	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ275	handler	_Pre	634.0	69.59775	5.45378310054	62.4
+AQ276	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ276	handler	_Pre	1083.0	97.55786	6.97189511767	62.4
+AQ277	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ277	handler	_Pre	576.0	66.29622	5.96644143563	62.4
+AQ325	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ325	handler	_Pre	517.0	55.14474	5.80355886073	62.4
+AQ328	1	NA	NA	NA	NA	NA	NA	09/28/14	4	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ328	handler	_Pre	421.0	54.41325	4.07136330241	62.4
+AQ251	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ251	handler	_Pre	660.0	62.21121	6.21730600179	
+AQ253	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ253	handler	_Pre	613.0	61.33616	6.78882375855	
+AQ254	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ254	handler	_Pre	503.0	44.2935	5.78960123589	
+AQ278	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ278	handler	_Pre	669.0	55.77187	6.58951833381	
+AQ201	1	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ201	handler	_Pre	594.0	65.85462	6.54666778352	
+AQ225	1	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ225	handler	_Pre	803.0	81.68949	7.31916387909	
+AQ72	1	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ72	handler	_Pre	448.0	42.05848	5.51390339273	
+AQ199	1	NA	NA	NA	NA	NA	NA	09/29/14	5	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ199	handler	_Pre	621.0	66.84454	5.82645553048	
+AQ200	1	NA	NA	NA	NA	NA	NA	09/29/14	5	12:40	3	pm-12-2	human	human-hand	human-hand-handler	AQ200	handler	_Pre	240.0	20.45083	3.71658362376	
+AQ228	1	NA	NA	NA	NA	NA	NA	09/29/14	5	12:40	3	pm-12-2	human	human-hand	human-hand-handler	AQ228	handler	_Pre	869.0	88.18742	7.04497650026	
+AQ173	1	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ173	handler	_Pre	594.0	62.42261	6.43458847181	
+AQ174	1	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ174	handler	_Pre	625.0	56.54456	5.92380345729	
+AQ227	1	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ227	handler	_Pre	550.0	47.547	5.84140260512	
+AQ121	1	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ121	handler	_Pre	681.0	71.10477	6.34966782754	
+AQ147	1	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	human	human-hand	human-hand-handler	AQ147	handler	_Pre	440.0	44.30749	5.47944217084	
+AQ148	1	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ148	handler	_Pre	539.0	53.97413	6.00992145068	
+AQ149	1	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ149	handler	_Pre	697.0	70.09081	6.87990763192	
+AQ45	1	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	human	human-hand	human-hand-handler	AQ45	handler	_Pre	497.0	50.40924	6.10774371806	
+AQ538	1	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	human	human-hand	human-hand-handler	AQ538	handler	_Pre	708.0	63.6152	6.47616768943	
+AQ249	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ249	handler	_Pre	243.0	27.70735	3.83239257307	
+AQ250	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ250	handler	_Pre	433.0	43.02351	5.00898509993	
+AQ273	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ273	handler	_Pre	304.0	32.41189	3.79921978777	
+AQ274	1	NA	NA	NA	NA	NA	NA	09/29/14	5	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ274	handler	_Pre	291.0	39.93223	4.00489726883	
+AQ197	1	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ197	handler	_Pre	309.0	41.19604	3.51192585953	
+AQ221	1	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ221	handler	_Pre	368.0	40.07905	3.93554528672	
+AQ68	1	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ68	handler	_Pre	355.0	44.12566	3.59010413634	
+AQ195	1	NA	NA	NA	NA	NA	NA	09/29/14	5	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ195	handler	_Pre	407.0	48.27706	4.49300898953	
+AQ196	1	NA	NA	NA	NA	NA	NA	09/29/14	5	12:40	3	pm-12-2	human	human-nose	human-nose-handler	AQ196	handler	_Pre	238.0	21.34554	3.74066324622	
+AQ224	1	NA	NA	NA	NA	NA	NA	09/29/14	5	12:40	3	pm-12-2	human	human-nose	human-nose-handler	AQ224	handler	_Pre	330.0	35.91041	3.83815718202	
+AQ169	1	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ169	handler	_Pre	350.0	42.43297	4.03674811634	
+AQ170	1	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ170	handler	_Pre	478.0	50.30982	4.65775731927	
+AQ223	1	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ223	handler	_Pre	467.0	54.05635	4.35819508405	
+AQ117	1	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ117	handler	_Pre	451.0	58.66718	4.33436194335	
+AQ143	1	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	human	human-nose	human-nose-handler	AQ143	handler	_Pre	241.0	32.35461	2.78663784905	
+AQ144	1	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ144	handler	_Pre	227.0	30.90492	2.57640223155	
+AQ145	1	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ145	handler	_Pre	373.0	46.71017	2.80176172919	
+AQ41	1	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	human	human-nose	human-nose-handler	AQ41	handler	_Pre	284.0	35.80468	3.69601204727	
+AQ430	1	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	human	human-nose	human-nose-handler	AQ430	handler	_Pre	282.0	33.69985	2.2296159563	
+AQ123	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ123	handler	_Pre	666.0	73.83494	6.92680648021	61.8
+AQ150	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ150	handler	_Pre	533.0	54.96758	5.76321591935	61.8
+AQ69	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ69	handler	_Pre	595.0	64.08807	5.88825738708	61.8
+AQ70	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ70	handler	_Pre	530.0	56.67075	6.2114100652	61.8
+AQ119	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ119	handler	_Pre	313.0	33.79302	5.27474363316	61.8
+AQ146	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ146	handler	_Pre	484.0	56.44816	5.17840418069	61.8
+AQ66	1	NA	NA	NA	NA	NA	NA	09/30/14	6	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ66	handler	_Pre	205.0	27.63859	2.89163087225	61.8
+AQ122	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ122	handler	_Pre	597.0	58.79765	6.44026050984	61.2
+AQ124	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ124	handler	_Pre	518.0	56.60491	5.47689136285	61.2
+AQ43	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ43	handler	_Pre	505.0	45.74518	5.49407187938	61.2
+AQ71	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ71	handler	_Pre	483.0	46.96775	5.95575257091	61.2
+AQ118	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ118	handler	_Pre	441.0	52.65532	4.63749045028	61.2
+AQ120	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ120	handler	_Pre	373.0	44.03389	4.31332136718	61.2
+AQ39	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ39	handler	_Pre	480.0	49.70304	4.41259731342	61.2
+AQ67	1	NA	NA	NA	NA	NA	NA	10/01/14	7	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ67	handler	_Pre	324.0	36.07874	4.88026976493	61.2
+AQ17	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ17	handler	_Pre	603.0	60.65902	5.86543204797	
+AQ19	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ19	handler	_Pre	413.0	42.67278	5.65450234444	
+AQ44	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ44	handler	_Pre	385.0	36.7432	3.37529145596	
+AQ46	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ46	handler	_Pre	634.0	64.48997	6.7152325113	
+AQ13	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ13	handler	_Pre	298.0	32.29489	4.19070891095	
+AQ15	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ15	handler	_Pre	425.0	49.50576	4.2757527593	
+AQ40	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ40	handler	_Pre	357.0	36.62796	4.25895148721	
+AQ42	1	NA	NA	NA	NA	NA	NA	10/02/14	8	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ42	handler	_Pre	328.0	43.27146	3.95620812149	
+AQ18	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ18	handler	_Pre	479.0	47.13126	5.78403347317	62.4
+AQ95	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ95	handler	_Pre	475.0	47.91803	5.88689482215	62.4
+AQ97	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ97	handler	_Pre	489.0	54.32767	5.20260162288	62.4
+AQ14	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ14	handler	_Pre	447.0	56.89349	5.81183307787	62.4
+AQ91	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ91	handler	_Pre	291.0	38.68112	3.93542722723	62.4
+AQ93	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ93	handler	_Pre	270.0	29.70999	3.86144647485	62.4
+AQ94	1	NA	NA	NA	NA	NA	NA	10/03/14	9	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ94	handler	_Pre	112.0	17.29333	1.61558194716	62.4
+AQ565	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ565	handler	_Pre	806.0	71.59312	6.96320524949	61.3
+AQ771	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ771	handler	_Pre	568.0	57.13799	4.91564859793	61.3
+AQ96	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ96	handler	_Pre	528.0	50.01943	6.12713911553	61.3
+AQ98	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ98	handler	_Pre	660.0	63.59306	6.1887735588	61.3
+AQ16	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ16	handler	_Pre	206.0	25.60997	2.84919627374	61.3
+AQ481	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ481	handler	_Pre	379.0	36.75697	4.78689808913	61.3
+AQ561	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ561	handler	_Pre	488.0	60.58793	4.74482218687	61.3
+AQ92	1	NA	NA	NA	NA	NA	NA	10/04/14	10	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ92	handler	_Pre	479.0	57.51259	5.72891984224	61.3
+AQ410	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ410	handler	_Pre	698.0	69.55324	6.96950104655	60.9
+AQ564	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ564	handler	_Pre	654.0	65.82481	5.93656874848	60.9
+AQ721	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ721	handler	_Pre	458.0	45.80682	5.81863515555	60.9
+AQ745	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ745	handler	_Pre	1090.0	104.12051	8.52136349337	60.9
+AQ406	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ406	handler	_Pre	296.0	40.17249	3.145844522	60.9
+AQ560	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ560	handler	_Pre	342.0	41.96312	4.54506796164	60.9
+AQ689	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ689	handler	_Pre	423.0	51.09731	3.36549908976	60.9
+AQ717	1	NA	NA	NA	NA	NA	NA	10/05/14	11	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ717	handler	_Pre	418.0	51.62381	4.30519009995	60.9
+AQ434	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ434	handler	_Pre	661.0	63.99059	5.93538881011	60.2
+AQ488	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ488	handler	_Pre	557.0	56.62114	6.16364975907	60.2
+AQ539	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ539	handler	_Pre	414.0	39.42961	5.30028930472	60.2
+AQ667	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ667	handler	_Pre	690.0	76.80773	6.04958680235	60.2
+AQ484	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ484	handler	_Pre	548.0	66.7157	4.85659352912	60.2
+AQ535	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ535	handler	_Pre	355.0	49.62292	2.90155734663	60.2
+AQ664	1	NA	NA	NA	NA	NA	NA	10/06/14	12	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ664	handler	_Pre	654.0	61.4844	6.19187851324	60.2
+AQ486	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ486	handler	_Pre	733.0	68.32007	6.16444852594	60.1
+AQ643	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ643	handler	_Pre	1285.0	112.78886	8.45976702563	60.1
+AQ693	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ693	handler	_Pre	1339.0	116.5536	8.18877344299	60.1
+AQ432	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ432	handler	_Pre	1346.0	117.22595	8.75253025627	60.1
+AQ482	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ482	handler	_Pre	1177.0	104.29707	7.58998359504	60.1
+AQ637	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ637	handler	_Pre	1435.0	124.26693	8.3692505312	60.1
+AQ639	1	NA	NA	NA	NA	NA	NA	10/07/14	13	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ639	handler	_Pre	1047.0	91.65837	7.00616418075	60.1
+AQ436	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ436	handler	_Pre	1415.0	127.16307	8.56119313925	
+AQ511	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ511	handler	_Pre	1303.0	118.87212	8.1955372654	
+AQ513	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ513	handler	_Pre	1468.0	128.82678	8.86512612905	
+AQ590	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ590	handler	_Pre	1108.0	100.82229	7.08410356343	
+AQ458	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ458	handler	_Pre	723.0	73.44162	5.3335807237	
+AQ507	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ507	handler	_Pre	802.0	79.62561	5.68692277473	
+AQ509	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ509	handler	_Pre	688.0	71.66166	4.96340240197	
+AQ586	1	NA	NA	NA	NA	NA	NA	10/08/14	14	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ586	handler	_Pre	865.0	84.85667	5.98434107255	
+AQ487	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ487	handler	_Pre	1005.0	89.04307	6.67038175785	
+AQ618	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ618	handler	_Pre	1176.0	105.39225	7.61480518494	
+AQ641	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ641	handler	_Pre	1280.0	111.83487	8.22478162679	
+AQ720	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ720	handler	_Pre	775.0	66.94166	6.23566373784	
+AQ483	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ483	handler	_Pre	895.0	83.79924	5.59645286688	
+AQ562	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ562	handler	_Pre	1007.0	94.23318	6.81380446832	
+AQ715	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ715	handler	_Pre	483.0	52.1476	3.28319422275	
+AQ716	1	NA	NA	NA	NA	NA	NA	10/09/14	15	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ716	handler	_Pre	611.0	60.12613	5.14985632859	
+AQ460	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ460	handler	_Pre	857.0	81.51391	6.47102338512	60.5
+AQ514	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ514	handler	_Pre	1200.0	101.09056	7.52028104673	60.5
+AQ591	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ591	handler	_Pre	816.0	73.7905	6.21308600884	60.5
+AQ615	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ615	handler	_Pre	1275.0	114.97205	7.99728690599	60.5
+AQ429	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ429	handler	_Pre	1293.0	112.30829	8.34516470796	60.5
+AQ456	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ456	handler	_Pre	672.0	72.34619	4.04522907992	60.5
+AQ510	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ510	handler	_Pre	1124.0	99.88368	7.20590513507	60.5
+AQ613	1	NA	NA	NA	NA	NA	NA	10/10/14	16	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ613	handler	_Pre	1317.0	112.61234	8.58917297847	60.5
+AQ407	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ407	handler	_Pre	1470.0	126.32676	8.85197274551	
+AQ409	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ409	handler	_Pre	1334.0	115.38822	8.35220947021	
+AQ512	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ512	handler	_Pre	1434.0	119.43198	8.55915925594	
+AQ566	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ566	handler	_Pre	1379.0	118.07755	8.80403511544	
+AQ405	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ405	handler	_Pre	1102.0	98.47683	7.21378697113	
+AQ663	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ663	handler	_Pre	1138.0	106.03889	6.86278877653	
+AQ718	1	NA	NA	NA	NA	NA	NA	10/11/14	17	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ718	handler	_Pre	320.0	39.20761	2.42905388108	
+AQ433	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ433	handler	_Pre	1357.0	113.99949	8.34346308268	
+AQ461	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ461	handler	_Pre	1393.0	123.91313	8.72529620576	
+AQ592	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ592	handler	_Pre	1470.0	126.84571	8.92620979453	
+AQ457	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ457	handler	_Pre	884.0	82.42178	6.36157901793	
+AQ534	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ534	handler	_Pre	1346.0	114.42152	8.31942454762	
+AQ614	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ614	handler	_Pre	1017.0	98.53375	5.87106535753	
+AQ767	1	NA	NA	NA	NA	NA	NA	10/12/14	18	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ767	handler	_Pre	1106.0	101.97632	6.94563312916	
+AQ408	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ408	handler	Pos	1302.0	115.55835	8.75432194185	60.6
+AQ537	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ537	handler	Pos	1263.0	111.58402	7.79036200377	60.6
+AQ540	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ540	handler	Pos	1191.0	106.46648	7.66540603347	60.6
+AQ617	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ617	handler	Pos	1098.0	103.80181	7.55373662669	60.6
+AQ431	1	NA	NA	NA	NA	NA	NA	10/13/14	19	_none	_none	_none	human	human-nose	human-nose-handler	AQ431	handler	Pos	1248.0	111.95961	7.7019510798	60.6
+AQ404	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ404	handler	Pos	1306.0	114.78348	8.45232562913	60.6
+AQ536	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ536	handler	Pos	1042.0	99.82893	6.93844163673	60.6
+AQ559	1	NA	NA	NA	NA	NA	NA	10/13/14	19	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ559	handler	Pos	506.0	57.34199	4.05077887273	60.6
+AQ435	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-hand	human-hand-handler	AQ435	handler	Pos	1236.0	112.85583	7.92180728975	60.3
+AQ462	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-hand	human-hand-handler	AQ462	handler	Pos	803.0	72.78421	6.32484298884	60.3
+AQ563	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-hand	human-hand-handler	AQ563	handler	Pos	1374.0	119.93455	8.60574054253	60.3
+AQ616	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-hand	human-hand-handler	AQ616	handler	Pos	1016.0	94.15624	7.17911943662	60.3
+AQ642	1	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ642	handler	Pos	1352.0	112.10344	8.22720161489	60.3
+AQ695	1	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ695	handler	Pos	841.0	79.52936	6.5583904855	60.3
+AQ589	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ589	handler	Pos	962.0	87.08503	6.88626314887	60.3
+AQ668	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ668	handler	Pos	1003.0	99.30533	7.66753914908	60.3
+AQ669	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ669	handler	Pos	1416.0	120.36931	8.25000210726	60.3
+AQ670	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ670	handler	Pos	1081.0	99.85246	6.99069962365	60.3
+AQ485	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ485	handler	Pos	728.0	71.33479	7.56032344674	60.3
+AQ696	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ696	handler	Pos	542.0	46.00497	5.40802060838	60.3
+AQ746	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ746	handler	Pos	690.0	54.54903	6.37737026051	60.3
+AQ773	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ773	handler	Pos	566.0	45.7717	5.34943971378	60.3
+AQ459	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ459	handler	Pos	777.0	69.47516	6.57761842471	60.3
+AQ694	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ694	handler	Pos	718.0	70.29402	6.33574723191	60.3
+AQ747	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ747	handler	Pos	674.0	62.88759	5.95394144457	60.3
+AQ878	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ878	handler	Pos	815.0	70.91409	7.43407867178	60.3
+AQ533	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-nose	human-nose-handler	AQ533	handler	Pos	1245.0	110.20268	8.03221723472	60.3
+AQ587	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-nose	human-nose-handler	AQ587	handler	Pos	1029.0	96.38578	6.6888164302	60.3
+AQ588	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-nose	human-nose-handler	AQ588	handler	Pos	944.0	88.47937	6.4132380095	60.3
+AQ768	1	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	human	human-nose	human-nose-handler	AQ768	handler	Pos	974.0	93.51984	6.49581165653	60.3
+AQ455	1	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ455	handler	Pos	1159.0	107.42113	7.25549610505	60.3
+AQ638	1	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ638	handler	Pos	1085.0	99.23022	7.01378237576	60.3
+AQ744	1	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ744	handler	Pos	891.0	80.77526	6.34200276156	60.3
+AQ585	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ585	handler	Pos	1112.0	96.17104	7.39503235419	60.3
+AQ691	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ691	handler	Pos	924.0	89.79261	6.15677881704	60.3
+AQ692	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ692	handler	Pos	931.0	84.50478	6.31048044001	60.3
+AQ742	1	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ742	handler	Pos	1303.0	111.20914	8.19893671821	60.3
+AQ403	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ403	handler	Pos	395.0	39.09675	4.19132855425	60.3
+AQ690	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ690	handler	Pos	391.0	41.47511	3.91825485683	60.3
+AQ769	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ769	handler	Pos	451.0	40.69808	4.85946902581	60.3
+AQ770	1	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ770	handler	Pos	445.0	40.30257	4.83698256691	60.3
+AQ611	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ611	handler	Pos	512.0	46.34818	4.77831735522	60.3
+AQ612	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ612	handler	Pos	492.0	47.43881	4.73977190283	60.3
+AQ665	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ665	handler	Pos	688.0	71.23335	5.61325826207	60.3
+AQ848	1	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ848	handler	Pos	508.0	48.13848	4.51770612018	60.3
+AQ774	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ774	handler	Pos	736.0	66.59122	5.90437015092	60.0
+AQ825	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ825	handler	Pos	484.0	38.76336	5.41202671659	60.0
+AQ849	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ849	handler	Pos	591.0	47.19201	5.51322841707	60.0
+AQ850	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ850	handler	Pos	457.0	40.54073	4.82235159082	60.0
+AQ666	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ666	handler	Pos	424.0	42.41293	4.69352211222	60.0
+AQ845	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ845	handler	Pos	390.0	32.47585	4.86622734965	60.0
+AQ846	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ846	handler	Pos	480.0	39.71661	4.88669429182	60.0
+AQ847	1	NA	NA	NA	NA	NA	NA	10/15/14	21	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ847	handler	Pos	464.0	36.70993	4.84616213857	60.0
+AQ826	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ826	handler	Pos	591.0	52.45057	5.6241675558	59.1
+AQ875	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ875	handler	Pos	782.0	70.71054	5.99757585046	59.1
+AQ876	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ876	handler	Pos	449.0	31.6955	5.25067818575	59.1
+AQ877	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ877	handler	Pos	755.0	70.21669	6.67308402339	59.1
+AQ793	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ793	handler	Pos	715.0	62.98398	6.07314071016	59.1
+AQ872	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ872	handler	Pos	666.0	59.51396	5.96054701174	59.1
+AQ873	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ873	handler	Pos	252.0	25.88914	3.31420439951	59.1
+AQ874	1	NA	NA	NA	NA	NA	NA	10/16/14	22	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ874	handler	Pos	464.0	44.83586	4.34441766555	59.1
+AQ797	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ797	handler	Pos	837.0	79.25503	6.64211277423	59.7
+AQ799	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ799	handler	Pos	1006.0	94.09231	7.7419826505	59.7
+AQ824	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ824	handler	Pos	904.0	79.59233	6.95653604851	59.7
+AQ852	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ852	handler	Pos	656.0	47.07056	6.31718918812	59.7
+AQ794	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ794	handler	Pos	664.0	66.66483	5.72942762182	59.7
+AQ796	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ796	handler	Pos	399.0	36.60038	4.23596345618	59.7
+AQ821	1	NA	NA	NA	NA	NA	NA	10/17/14	23	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ821	handler	Pos	355.0	29.31367	4.19992068447	59.7
+AQ798	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ798	handler	Pos	723.0	77.65385	7.50995073782	59.2
+AQ800	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ800	handler	Pos	770.0	72.14916	5.99209140735	59.2
+AQ823	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ823	handler	Pos	939.0	79.04363	7.26657689185	59.2
+AQ851	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ851	handler	Pos	956.0	77.08181	7.62482538439	59.2
+AQ795	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ795	handler	Pos	912.0	82.59556	6.5803389644	59.2
+AQ819	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ819	handler	Pos	509.0	43.02039	5.07431817147	59.2
+AQ820	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ820	handler	Pos	307.0	37.96698	3.24660089291	59.2
+AQ822	1	NA	NA	NA	NA	NA	NA	10/18/14	24	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ822	handler	Pos	411.0	47.17697	3.52266367553	59.2
+AQ1033	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1033	handler	Pos	817.0	68.33191	6.48387024915	59.8
+AQ1058	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1058	handler	Pos	681.0	54.82602	5.93066059593	59.8
+AQ901	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ901	handler	Pos	914.0	76.16482	7.2876911771	59.8
+AQ956	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ956	handler	Pos	641.0	51.40864	5.88785529637	59.8
+AQ1056	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1056	handler	Pos	520.0	50.63323	3.43016097867	59.8
+AQ1133	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1133	handler	Pos	623.0	64.42884	5.54513651127	59.8
+AQ923	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ923	handler	Pos	571.0	54.90551	5.06817523409	59.8
+AQ950	1	NA	NA	NA	NA	NA	NA	10/19/14	25	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ950	handler	Pos	728.0	67.74112	5.88558040981	59.8
+AQ1032	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1032	handler	Pos	804.0	75.74306	6.49757668806	59.8
+AQ1164	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1164	handler	Pos	922.0	87.38049	6.97520788462	59.8
+AQ1291	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1291	handler	Pos	1175.0	105.03652	8.16276982901	59.8
+AQ955	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ955	handler	Pos	958.0	90.07232	6.82105270528	59.8
+AQ1029	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1029	handler	Pos	787.0	82.223	5.11523326512	59.8
+AQ1106	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1106	handler	Pos	958.0	88.6972	6.7013250044	59.8
+AQ1160	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1160	handler	Pos	906.0	89.57436	6.27121945673	59.8
+AQ1287	1	NA	NA	NA	NA	NA	NA	10/20/14	26	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1287	handler	Pos	740.0	80.55649	4.70165809407	59.8
+AQ1006	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1006	handler	Pos	689.0	64.87913	5.9454194665	59.8
+AQ1057	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1057	handler	Pos	818.0	79.41333	8.18385761255	59.8
+AQ1137	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1137	handler	Pos	935.0	88.50917	7.01796825796	59.8
+AQ1320	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1320	handler	Pos	882.0	81.13887	6.77626052906	59.8
+AQ1003	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1003	handler	Pos	709.0	68.62456	5.99862415052	59.8
+AQ1053	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1053	handler	Pos	894.0	82.95342	6.40350349165	59.8
+AQ1316	1	NA	NA	NA	NA	NA	NA	10/21/14	27	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1316	handler	Pos	883.0	76.32997	6.74507910989	59.8
+AQ1110	1	NA	NA	NA	NA	NA	NA	10/22/14	28	8:40	1	am-08-10	human	human-hand	human-hand-handler	AQ1110	handler	Pos	906.0	85.82223	6.78302920852	60.8
+AQ1161	1	NA	NA	NA	NA	NA	NA	10/22/14	28	8:45	1	am-08-10	human	human-hand	human-hand-handler	AQ1161	handler	Pos	998.0	99.35869	7.38717542401	60.8
+AQ1294	1	NA	NA	NA	NA	NA	NA	10/22/14	28	8:40	1	am-08-10	human	human-hand	human-hand-handler	AQ1294	handler	Pos	935.0	90.25295	6.98258124583	60.8
+AQ981	1	NA	NA	NA	NA	NA	NA	10/22/14	28	8:40	1	am-08-10	human	human-hand	human-hand-handler	AQ981	handler	Pos	738.0	73.76228	5.44943382666	60.8
+AQ1157	1	NA	NA	NA	NA	NA	NA	10/22/14	28	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1157	handler	Pos	1098.0	97.61698	7.99553131824	60.8
+AQ1290	1	NA	NA	NA	NA	NA	NA	10/22/14	28	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1290	handler	Pos	193.0	22.5786	2.92840978715	60.8
+AQ1314	1	NA	NA	NA	NA	NA	NA	10/22/14	28	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1314	handler	Pos	760.0	72.5164	5.81069938937	60.8
+AQ1315	1	NA	NA	NA	NA	NA	NA	10/22/14	28	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1315	handler	Pos	777.0	74.03226	5.11832339749	60.8
+AQ1085	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1085	handler	Pos	573.0	45.40977	5.66522785458	60.3
+AQ1109	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1109	handler	Pos	653.0	56.29853	5.93360173185	60.3
+AQ1242	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1242	handler	Pos	868.0	75.2839	6.73389216791	60.3
+AQ1292	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1292	handler	Pos	618.0	53.44966	5.69364188739	60.3
+AQ1079	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1079	handler	Pos	626.0	56.41925	5.72537944621	60.3
+AQ1238	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1238	handler	Pos	547.0	55.66901	4.66673787025	60.3
+AQ1288	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1288	handler	Pos	391.0	34.58603	3.92246912939	60.3
+AQ1289	1	NA	NA	NA	NA	NA	NA	10/23/14	29	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1289	handler	Pos	460.0	42.30173	4.86948052878	60.3
+AQ1135	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1135	handler	Pos	750.0	61.23823	6.67101872814	60.8
+AQ1398	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1398	handler	Pos	852.0	71.84904	6.97230438778	60.8
+AQ1526	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1526	handler	Pos	894.0	75.35501	7.15113240639	60.8
+AQ929	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ929	handler	Pos	777.0	63.3821	6.93562809704	60.8
+AQ1081	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1081	handler	Pos	480.0	43.76176	5.14139208062	60.8
+AQ1131	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1131	handler	Pos	936.0	78.71149	6.97899562116	60.8
+AQ1264	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1264	handler	Pos	737.0	65.6513	5.81958945429	60.8
+AQ976	1	NA	NA	NA	NA	NA	NA	10/24/14	30	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ976	handler	Pos	509.0	44.31891	4.64744627181	60.8
+AQ1083	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1083	handler	Pos	793.0	60.45739	7.01881523312	60.8
+AQ1267	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1267	handler	Pos	668.0	56.39167	6.26321516757	60.8
+AQ1372	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1372	handler	Pos	801.0	66.20811	6.15353656268	60.8
+AQ1552	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1552	handler	Pos	779.0	67.21297	6.59907311682	60.8
+AQ1027	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1027	handler	Pos	412.0	37.71089	4.0549189349	60.8
+AQ1080	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1080	handler	Pos	630.0	63.17701	5.77862349343	60.8
+AQ1420	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1420	handler	Pos	466.0	46.61073	4.05227078593	60.8
+AQ171	1	NA	NA	NA	NA	NA	NA	10/25/14	31	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ171	handler	Pos	387.0	40.90444	4.00176426158	60.8
+AQ1007	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1007	handler	Pos	775.0	67.08896	6.89931567171	59.5
+AQ1031	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1031	handler	Pos	926.0	80.17883	7.53264406072	59.5
+AQ1346	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1346	handler	Pos	1006.0	84.45454	7.50614198164	59.5
+AQ954	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ954	handler	Pos	809.0	65.19578	6.83873730705	59.5
+AQ1001	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1001	handler	Pos	393.0	36.3608	4.55979137811	59.5
+AQ1107	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1107	handler	Pos	1106.0	103.19919	7.82263379665	59.5
+AQ1394	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1394	handler	Pos	1036.0	98.69233	7.08423513554	59.5
+AQ924	1	NA	NA	NA	NA	NA	NA	10/26/14	32	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ924	handler	Pos	542.0	50.51943	4.96742658031	59.5
+AQ1005	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1005	handler	Pos	666.0	53.83541	5.971878906	59.5
+AQ1084	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1084	handler	Pos	739.0	65.69043	6.31259568538	59.5
+AQ1268	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1268	handler	Pos	825.0	64.41823	6.61078908171	59.5
+AQ1319	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1319	handler	Pos	655.0	55.9469	6.14047238105	59.5
+AQ1002	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1002	handler	Pos	451.0	43.15227	4.53892463265	59.5
+AQ1342	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1342	handler	Pos	772.0	70.62387	5.87855079137	59.5
+AQ949	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ949	handler	Pos	564.0	54.50204	5.24557119613	59.5
+AQ977	1	NA	NA	NA	NA	NA	NA	10/27/14	33	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ977	handler	Pos	608.0	54.48099	5.86056831295	59.5
+AQ1059	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1059	handler	Pos	598.0	54.12742	5.69948114051	59.8
+AQ1424	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1424	handler	Pos	811.0	58.99452	6.89757636631	59.8
+AQ927	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ927	handler	Pos	690.0	63.63058	6.63240746367	59.8
+AQ980	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ980	handler	Pos	747.0	59.83809	6.52861585226	59.8
+AQ1054	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1054	handler	Pos	700.0	56.15308	5.72223349892	59.8
+AQ1368	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1368	handler	Pos	533.0	48.5793	4.66215570235	59.8
+AQ925	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ925	handler	Pos	486.0	45.78751	4.26442264868	59.8
+AQ975	1	NA	NA	NA	NA	NA	NA	10/28/14	34	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ975	handler	Pos	599.0	50.16364	5.61857644225	59.8
+AQ1136	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1136	handler	Pos	1064.0	89.18955	7.39235786957	59.8
+AQ1163	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1163	handler	Pos	651.0	52.0853	6.39533855363	59.8
+AQ1476	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1476	handler	Pos	607.0	60.06488	5.62699557069	59.8
+AQ979	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ979	handler	Pos	877.0	73.06622	6.86930837861	59.8
+AQ1158	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1158	handler	Pos	737.0	67.30025	5.78999477384	59.8
+AQ1472	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1472	handler	Pos	490.0	46.48895	4.92917335692	59.8
+AQ897	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ897	handler	Pos	359.0	37.96578	3.48300516504	59.8
+AQ951	1	NA	NA	NA	NA	NA	NA	10/29/14	35	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ951	handler	Pos	428.0	34.68847	4.80853850901	59.8
+AQ1111	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1111	handler	Pos	776.0	62.83792	6.41946092657	60.0
+AQ1162	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1162	handler	Pos	543.0	49.48131	4.27744526605	60.0
+AQ1213	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1213	handler	Pos	597.0	52.25522	5.63400892106	60.0
+AQ1554	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1554	handler	Pos	919.0	67.14881	7.08843263983	60.0
+AQ1028	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1028	handler	Pos	654.0	67.96295	5.15257126278	60.0
+AQ1159	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1159	handler	Pos	656.0	51.26541	5.80028741536	60.0
+AQ1209	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1209	handler	Pos	395.0	33.1726	4.50342374442	60.0
+AQ1446	1	NA	NA	NA	NA	NA	NA	10/30/14	36	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1446	handler	Pos	474.0	45.61978	4.98491855392	60.0
+AQ1187	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1187	handler	Pos	803.0	71.95799	6.88399433236	60.4
+AQ1215	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1215	handler	Pos	1017.0	91.68096	7.36866092684	60.4
+AQ1450	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1450	handler	Pos	741.0	65.84477	6.18420629844	60.4
+AQ928	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ928	handler	Pos	812.0	69.017	6.35594276342	60.4
+AQ1183	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1183	handler	Pos	489.0	51.11292	4.63872109074	60.4
+AQ1550	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1550	handler	Pos	566.0	51.97179	5.17319219218	60.4
+AQ898	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ898	handler	Pos	547.0	49.89399	5.06763130424	60.4
+AQ899	1	NA	NA	NA	NA	NA	NA	10/31/14	37	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ899	handler	Pos	870.0	70.47552	6.80659113164	60.4
+AQ1189	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1189	handler	Pos	819.0	80.56089	6.83954871664	59.3
+AQ1528	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1528	handler	Pos	1049.0	93.28149	7.18551165695	59.3
+AQ902	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ902	handler	Pos	1257.0	114.61634	8.63864353677	59.3
+AQ953	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ953	handler	Pos	1233.0	117.58306	8.58007955818	59.3
+AQ1105	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1105	handler	Pos	904.0	83.67998	6.54811938303	59.3
+AQ1210	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1210	handler	Pos	654.0	69.85762	4.88110549023	59.3
+AQ1211	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1211	handler	Pos	803.0	78.30784	5.96067410487	59.3
+AQ1524	1	NA	NA	NA	NA	NA	NA	11/01/14	38	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1524	handler	Pos	1043.0	101.40397	7.13304991783	59.3
+AQ1214	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1214	handler	Pos	977.0	90.52911	7.22823845392	58.5
+AQ1239	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1239	handler	Pos	783.0	60.19346	6.53329171212	58.5
+AQ1241	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1241	handler	Pos	901.0	71.77416	7.10202966775	58.5
+AQ1502	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-hand	human-hand-handler	AQ1502	handler	Pos	701.0	60.05138	5.89914422711	58.5
+AQ1184	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1184	handler	Pos	584.0	57.47477	5.68941827562	58.5
+AQ1185	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1185	handler	Pos	733.0	71.56081	5.82183716733	58.5
+AQ1235	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1235	handler	Pos	571.0	57.69913	6.14476921482	58.5
+AQ1498	1	NA	NA	NA	NA	NA	NA	11/02/14	39	12:00	3	pm-12-2	human	human-nose	human-nose-handler	AQ1498	handler	Pos	738.0	67.09011	5.38890040479	58.5
+AQ1112	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1112	handler	Pos	913.0	91.64419	7.73630492949	57.2
+AQ1293	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1293	handler	Pos	631.0	56.73377	6.52876808713	57.2
+AQ1318	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1318	handler	Pos	608.0	51.20449	5.50177381548	57.2
+AQ1525	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1525	handler	Pos	557.0	49.30305	5.0779003763	57.2
+AQ1108	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1108	handler	Pos	1057.0	98.65184	7.35570270752	57.2
+AQ1236	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1236	handler	Pos	481.0	49.45132	4.88477540227	57.2
+AQ1237	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1237	handler	Pos	416.0	45.84577	3.36030257262	57.2
+AQ1495	1	NA	NA	NA	NA	NA	NA	11/03/14	40	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1495	handler	Pos	588.0	57.84455	4.85635738657	57.2
+AQ1086	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ1086	handler	Pos	605.0	58.51862	4.89837553558	56.4
+AQ1188	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ1188	handler	Pos	884.0	81.52957	7.58001424416	56.4
+AQ1499	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ1499	handler	Pos	920.0	91.98975	7.43512055959	56.4
+AQ1553	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-hand	human-hand-handler	AQ1553	handler	Pos	755.0	69.17368	5.53389843882	56.4
+AQ1060	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ1060	handler	Pos	776.0	67.92836	6.29028600951	56.4
+AQ1240	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ1240	handler	Pos	634.0	56.59297	5.66403099716	56.4
+AQ1501	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ1501	handler	Pos	650.0	56.33072	6.60656691726	56.4
+AQ1551	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-hand	human-hand-handler	AQ1551	handler	Pos	758.0	63.95858	6.83578190775	56.4
+AQ1034	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1034	handler	Pos	634.0	56.48127	5.5232578479	56.4
+AQ1447	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1447	handler	Pos	769.0	67.05164	6.18000238485	56.4
+AQ1500	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1500	handler	Pos	726.0	56.32468	6.7455577592	56.4
+AQ1527	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-hand	human-hand-handler	AQ1527	handler	Pos	760.0	65.62622	6.47287697751	56.4
+AQ1008	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ1008	handler	Pos	766.0	75.32029	6.39722877738	56.4
+AQ1449	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ1449	handler	Pos	758.0	61.1251	6.62159587488	56.4
+AQ1473	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ1473	handler	Pos	703.0	55.2492	6.24011783194	56.4
+AQ1474	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-hand	human-hand-handler	AQ1474	handler	Pos	552.0	45.19245	5.68496440902	56.4
+AQ1395	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ1395	handler	Pos	593.0	48.85117	4.95219601033	56.4
+AQ1448	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ1448	handler	Pos	623.0	58.38595	5.97449680505	56.4
+AQ1475	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ1475	handler	Pos	619.0	59.16565	6.09512871429	56.4
+AQ904	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-hand	human-hand-handler	AQ904	handler	Pos	903.0	74.98303	7.03591117025	56.4
+AQ1497	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ1497	handler	Pos	414.0	36.6322	4.94775500537	56.4
+AQ1521	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ1521	handler	Pos	431.0	45.61114	4.37948711866	56.4
+AQ1548	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ1548	handler	Pos	468.0	47.932	4.48261043067	56.4
+AQ900	1	NA	NA	NA	NA	NA	NA	11/04/14	41	7:40	1	am-08-10	human	human-nose	human-nose-handler	AQ900	handler	Pos	368.0	40.7146	4.1079518682	56.4
+AQ1082	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ1082	handler	Pos	169.0	21.5404	2.7689309576	56.4
+AQ1522	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ1522	handler	Pos	552.0	46.8122	4.88277132848	56.4
+AQ1523	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ1523	handler	Pos	678.0	63.66793	5.85866988357	56.4
+AQ1547	1	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	human	human-nose	human-nose-handler	AQ1547	handler	Pos	854.0	67.96074	6.70461247276	56.4
+AQ1443	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1443	handler	Pos	560.0	51.20896	5.29310791147	56.4
+AQ1496	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1496	handler	Pos	341.0	34.72891	3.88056581502	56.4
+AQ1549	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ1549	handler	Pos	375.0	29.35851	4.39736347583	56.4
+AQ952	1	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	human	human-nose	human-nose-handler	AQ952	handler	Pos	554.0	46.21067	5.29538656652	56.4
+AQ1445	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ1445	handler	Pos	719.0	56.87151	6.25243726149	56.4
+AQ1469	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ1469	handler	Pos	426.0	37.3438	4.24119739699	56.4
+AQ1470	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ1470	handler	Pos	424.0	38.08156	4.46451676565	56.4
+AQ926	1	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	human	human-nose	human-nose-handler	AQ926	handler	Pos	317.0	35.76482	3.70868444609	56.4
+AQ1134	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ1134	handler	Pos	444.0	38.41641	4.90398756099	56.4
+AQ1313	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ1313	handler	Pos	574.0	49.10714	5.65121381689	56.4
+AQ1444	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ1444	handler	Pos	468.0	45.90362	4.65977375438	56.4
+AQ1471	1	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	human	human-nose	human-nose-handler	AQ1471	handler	Pos	435.0	41.41336	4.41658199877	56.4
+WA1	1	NA	NA	NA	NA	NA	NA	09/24/14	0	15:10	4	pm-2-4	water	water	water	WA1	water	_Pre	624.0	64.76351	4.31204408434	61.5
+AQ177	0	NA	NA	NA	NA	NA	NA	09/25/14	1	14:30	4	pm-2-4	water	water	water	AQ177	water	_Pre	662.0	72.82053	4.59968744059	61.8
+AQ99	0	NA	NA	NA	NA	NA	NA	09/25/14	1	14:30	4	pm-2-4	water	water	water	AQ99	water	_Pre	678.0	72.93374	4.65516408312	61.8
+AQ21	0	NA	NA	NA	NA	NA	NA	09/26/14	2	14:00	4	pm-2-4	water	water	water	AQ21	water	_Pre	765.0	87.04848	4.57945736405	62.9
+AQ47	0	NA	NA	NA	NA	NA	NA	09/26/14	2	14:00	4	pm-2-4	water	water	water	AQ47	water	_Pre	682.0	71.01567	4.77846175383	62.9
+AQ151	0	NA	NA	NA	NA	NA	NA	09/27/14	3	14:20	4	pm-2-4	water	water	water	AQ151	water	_Pre	638.0	58.64932	6.1317078888	
+AQ515	0	NA	NA	NA	NA	NA	NA	09/28/14	4	14:49	4	pm-2-4	water	water	water	AQ515	water	_Pre	233.0	15.77895	4.11564508172	62.4
+AQ749	0	NA	NA	NA	NA	NA	NA	09/28/14	4	14:39	4	pm-2-4	water	water	water	AQ749	water	_Pre	398.0	38.11307	6.82317292443	62.4
+AQ567	0	NA	NA	NA	NA	NA	NA	09/29/14	5	8:18	1	am-08-10	water	water	water	AQ567	water	_Pre	627.0	70.92825	4.3292416906	
+AQ489	0	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	water	water	water	AQ489	water	_Pre	367.0	35.95446	4.55241356215	
+AQ697	0	NA	NA	NA	NA	NA	NA	09/29/14	5	10:30	2	am-10-12	water	water	water	AQ697	water	_Pre	524.0	55.75232	3.7442892616	
+AQ593	0	NA	NA	NA	NA	NA	NA	09/29/14	5	12:30	3	pm-12-2	water	water	water	AQ593	water	_Pre	593.0	61.97014	4.16423524642	
+AQ775	0	NA	NA	NA	NA	NA	NA	09/29/14	5	12:30	3	pm-12-2	water	water	water	AQ775	water	_Pre	550.0	55.85785	4.05113916312	
+AQ463	0	NA	NA	NA	NA	NA	NA	09/29/14	5	14:30	4	pm-2-4	water	water	water	AQ463	water	_Pre	542.0	56.64384	4.11219207747	
+AQ541	0	NA	NA	NA	NA	NA	NA	09/29/14	5	17:30	5	pm-4-6	water	water	water	AQ541	water	_Pre	721.0	77.8118	4.75717814444	
+AQ723	0	NA	NA	NA	NA	NA	NA	09/29/14	5	16:00	5	pm-4-6	water	water	water	AQ723	water	_Pre	584.0	65.52141	4.223511169	
+AQ307	0	NA	NA	NA	NA	NA	NA	09/30/14	6	14:30	4	pm-2-4	water	water	water	AQ307	water	_Pre	627.0	65.15166	5.45443284827	61.8
+AQ125	0	NA	NA	NA	NA	NA	NA	10/01/14	7	14:20	4	pm-2-4	water	water	water	AQ125	water	_Pre	873.0	83.36116	8.44612200079	61.2
+AQ333	0	NA	NA	NA	NA	NA	NA	10/02/14	8	14:30	4	pm-2-4	water	water	water	AQ333	water	_Pre	527.0	56.74588	4.42628595345	
+AQ203	0	NA	NA	NA	NA	NA	NA	10/03/14	9	14:43	4	pm-2-4	water	water	water	AQ203	water	_Pre	685.0	72.65341	4.44500088739	62.4
+AQ801	0	NA	NA	NA	NA	NA	NA	10/05/14	11	11:05	2	am-10-12	water	water	water	AQ801	water	_Pre	369.0	36.55113	4.04237502153	60.9
+AQ957	0	NA	NA	NA	NA	NA	NA	10/05/14	11	11:00	2	am-10-12	water	water	water	AQ957	water	_Pre	585.0	60.07821	4.1466830909	60.9
+AQ853	0	NA	NA	NA	NA	NA	NA	10/06/14	12	13:50	3	pm-12-2	water	water	water	AQ853	water	_Pre	476.0	48.76909	4.07226187609	60.2
+AQ905	0	NA	NA	NA	NA	NA	NA	10/06/14	12	13:50	3	pm-12-2	water	water	water	AQ905	water	_Pre	617.0	62.59263	4.40817434681	60.2
+AQ879	0	NA	NA	NA	NA	NA	NA	10/07/14	13	13:55	3	pm-12-2	water	water	water	AQ879	water	_Pre	593.0	61.44149	4.18838626681	60.1
+AQ931	0	NA	NA	NA	NA	NA	NA	10/08/14	14	14:28	4	pm-2-4	water	water	water	AQ931	water	_Pre	435.0	42.98431	4.05947951715	
+SA74	0	NA	NA	NA	NA	NA	NA	10/08/14	14	14:28	4	pm-2-4	water	water	water	SA74	water	_Pre	186.0	17.77346	4.82196323466	
+SA73	0	NA	NA	NA	NA	NA	NA	10/09/14	15	14:20	4	pm-2-4	water	water	water	SA73	water	_Pre	602.0	62.59552	4.31385740785	
+AQ1113	0	NA	NA	NA	NA	NA	NA	10/10/14	16	13:30	3	pm-12-2	water	water	water	AQ1113	water	_Pre	157.0	11.48	3.87489349868	60.5
+AQ1217	0	NA	NA	NA	NA	NA	NA	10/10/14	16	14:15	4	pm-2-4	water	water	water	AQ1217	water	_Pre	638.0	69.073	4.45344902332	60.5
+AQ1009	0	NA	NA	NA	NA	NA	NA	10/11/14	17	14:20	4	pm-2-4	water	water	water	AQ1009	water	_Pre	76.0	14.01236	4.09472466969	
+AQ983	0	NA	NA	NA	NA	NA	NA	10/11/14	17	14:20	4	pm-2-4	water	water	water	AQ983	water	_Pre	650.0	66.34222	4.62624858946	
+AQ1139	0	NA	NA	NA	NA	NA	NA	10/12/14	18	11:05	2	am-10-12	water	water	water	AQ1139	water	_Pre	476.0	51.71272	4.45412033367	
+AQ1165	0	NA	NA	NA	NA	NA	NA	10/13/14	19	14:30	4	pm-2-4	water	water	water	AQ1165	water	Pos	222.0	19.68953	5.28721115368	60.6
+SA50	0	NA	NA	NA	NA	NA	NA	10/13/14	19	14:30	4	pm-2-4	water	water	water	SA50	water	Pos	681.0	74.15001	4.96502955656	60.6
+SA52	0	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	water	water	water	SA52	water	Pos	773.0	82.14108	4.72570787956	60.3
+SA86	0	NA	NA	NA	NA	NA	NA	10/14/14	20	8:00	1	am-08-10	water	water	water	SA86	water	Pos	748.0	73.38036	5.06917466471	60.3
+SA69	0	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	water	water	water	SA69	water	Pos	607.0	66.81912	4.77023844857	60.3
+SA93	0	NA	NA	NA	NA	NA	NA	10/14/14	20	10:30	2	am-10-12	water	water	water	SA93	water	Pos	604.0	64.94711	4.27212439587	60.3
+SA63	0	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	water	water	water	SA63	water	Pos	593.0	68.29692	4.19122778492	60.3
+SA89	0	NA	NA	NA	NA	NA	NA	10/14/14	20	12:30	3	pm-12-2	water	water	water	SA89	water	Pos	459.0	46.59882	4.06309328823	60.3
+SA67	0	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	water	water	water	SA67	water	Pos	540.0	56.61493	3.8682151619	60.3
+SA79	0	NA	NA	NA	NA	NA	NA	10/14/14	20	14:30	4	pm-2-4	water	water	water	SA79	water	Pos	620.0	64.69024	4.40309461594	60.3
+SA91	0	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	water	water	water	SA91	water	Pos	633.0	66.37864	4.29790638574	60.3
+SA94	0	NA	NA	NA	NA	NA	NA	10/14/14	20	16:30	5	pm-4-6	water	water	water	SA94	water	Pos	540.0	55.16356	5.11890437634	60.3
+SA82	0	NA	NA	NA	NA	NA	NA	10/15/14	21	14:24	4	pm-2-4	water	water	water	SA82	water	Pos	197.0	12.74121	4.00791165684	60.0
+SA75	0	NA	NA	NA	NA	NA	NA	10/16/14	22	14:13	4	pm-2-4	water	water	water	SA75	water	Pos	656.0	69.13304	4.88514424899	59.1
+SA54	0	NA	NA	NA	NA	NA	NA	10/17/14	23	14:35	4	pm-2-4	water	water	water	SA54	water	Pos	470.0	49.47502	5.05804199566	59.7
+SA48	0	NA	NA	NA	NA	NA	NA	10/18/14	24	14:08	4	pm-2-4	water	water	water	SA48	water	Pos	423.0	45.51916	3.93278331586	59.2
+SA71	0	NA	NA	NA	NA	NA	NA	10/18/14	24	14:08	4	pm-2-4	water	water	water	SA71	water	Pos	664.0	66.91908	4.83946251388	59.2
+SA45	0	NA	NA	NA	NA	NA	NA	10/19/14	25	15:12	4	pm-2-4	water	water	water	SA45	water	Pos	380.0	38.02758	4.3550146359	59.8
+SA49	0	NA	NA	NA	NA	NA	NA	10/19/14	25	15:12	4	pm-2-4	water	water	water	SA49	water	Pos	661.0	72.24435	4.59889430247	59.8
+SA68	0	NA	NA	NA	NA	NA	NA	10/20/14	26	14:15	4	pm-2-4	water	water	water	SA68	water	Pos	499.0	59.10177	3.80426219477	59.8
+SA81	0	NA	NA	NA	NA	NA	NA	10/20/14	26	14:15	4	pm-2-4	water	water	water	SA81	water	Pos	675.0	70.39661	4.85707475234	59.8
+SA53	0	NA	NA	NA	NA	NA	NA	10/21/14	27	14:09	4	pm-2-4	water	water	water	SA53	water	Pos	679.0	76.02408	4.80540239505	59.8
+SA58	0	NA	NA	NA	NA	NA	NA	10/22/14	28	10:00	2	am-10-12	water	water	water	SA58	water	Pos	336.0	29.27711	5.58359657654	60.8
+SA92	0	NA	NA	NA	NA	NA	NA	10/22/14	28	10:00	2	am-10-12	water	water	water	SA92	water	Pos	685.0	74.59954	5.20098612662	60.8
+SA78	0	NA	NA	NA	NA	NA	NA	10/23/14	29	14:13	4	pm-2-4	water	water	water	SA78	water	Pos	306.0	27.99866	4.33526600079	60.3
+SA87	0	NA	NA	NA	NA	NA	NA	10/23/14	29	14:13	4	pm-2-4	water	water	water	SA87	water	Pos	608.0	66.25058	4.1826353707	60.3
+SA46	0	NA	NA	NA	NA	NA	NA	10/24/14	30	13:52	3	pm-12-2	water	water	water	SA46	water	Pos	483.0	54.25788	4.44446941733	60.8
+SA76	0	NA	NA	NA	NA	NA	NA	10/24/14	30	13:52	3	pm-12-2	water	water	water	SA76	water	Pos	636.0	73.35317	6.71860135841	60.8
+SA65	0	NA	NA	NA	NA	NA	NA	10/25/14	31	14:27	4	pm-2-4	water	water	water	SA65	water	Pos	661.0	70.81019	4.53614383044	60.8
+SA70	0	NA	NA	NA	NA	NA	NA	10/25/14	31	14:27	4	pm-2-4	water	water	water	SA70	water	Pos	632.0	64.49819	4.35400004053	60.8
+SA85	0	NA	NA	NA	NA	NA	NA	10/26/14	32	14:25	4	pm-2-4	water	water	water	SA85	water	Pos	294.0	31.1717	4.31901396679	59.5
+AQ1555	0	NA	NA	NA	NA	NA	NA	10/27/14	33	14:09	4	pm-2-4	water	water	water	AQ1555	water	Pos	482.0	52.21694	3.93261119574	59.5
+AQ1347	0	NA	NA	NA	NA	NA	NA	10/28/14	34	14:10	4	pm-2-4	water	water	water	AQ1347	water	Pos	333.0	33.64162	4.45377831819	59.8
+AQ1425	0	NA	NA	NA	NA	NA	NA	10/28/14	34	14:10	4	pm-2-4	water	water	water	AQ1425	water	Pos	490.0	50.16538	6.66883986092	59.8
+AQ1451	0	NA	NA	NA	NA	NA	NA	10/29/14	35	14:00	4	pm-2-4	water	water	water	AQ1451	water	Pos	775.0	83.40329	5.20094826398	59.8
+AQ1503	0	NA	NA	NA	NA	NA	NA	10/29/14	35	14:00	4	pm-2-4	water	water	water	AQ1503	water	Pos	720.0	71.80107	5.18527703565	59.8
+AQ1529	0	NA	NA	NA	NA	NA	NA	10/30/14	36	14:40	4	pm-2-4	water	water	water	AQ1529	water	Pos	648.0	71.63626	4.14603407081	60.0
+SA51	0	NA	NA	NA	NA	NA	NA	10/31/14	37	14:27	4	pm-2-4	water	water	water	SA51	water	Pos	246.0	29.13714	5.60384101835	60.4
+SA56	0	NA	NA	NA	NA	NA	NA	10/31/14	37	14:27	4	pm-2-4	water	water	water	SA56	water	Pos	504.0	58.14574	4.12422718692	60.4
+SA83	0	NA	NA	NA	NA	NA	NA	11/01/14	38	14:49	4	pm-2-4	water	water	water	SA83	water	Pos	227.0	17.19607	4.39654766376	59.3
+SA57	0	NA	NA	NA	NA	NA	NA	11/02/14	39	14:32	4	pm-2-4	water	water	water	SA57	water	Pos	184.0	17.98825	4.32156020913	58.5
+SA90	0	NA	NA	NA	NA	NA	NA	11/02/14	39	14:32	4	pm-2-4	water	water	water	SA90	water	Pos	240.0	17.66135	4.19837427141	58.5
+SA61	0	NA	NA	NA	NA	NA	NA	11/03/14	40	14:21	4	pm-2-4	water	water	water	SA61	water	Pos	608.0	64.29029	4.26346075957	57.2
+SA84	0	NA	NA	NA	NA	NA	NA	11/03/14	40	14:21	4	pm-2-4	water	water	water	SA84	water	Pos	331.0	35.76683	4.06539445191	57.2
+SA64	0	NA	NA	NA	NA	NA	NA	11/04/14	41	10:30	2	am-10-12	water	water	water	SA64	water	Pos	216.0	23.71783	5.10614454519	56.4
+SA47	0	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	water	water	water	SA47	water	Pos	425.0	47.21443	3.28771739531	56.4
+SA66	0	NA	NA	NA	NA	NA	NA	11/04/14	41	12:30	3	pm-12-2	water	water	water	SA66	water	Pos	516.0	54.01335	3.6024539327	56.4
+AQ1373	0	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	water	water	water	AQ1373	water	Pos	349.0	30.35125	4.22084549234	56.4
+SA44	0	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	water	water	water	SA44	water	Pos	351.0	40.15898	4.20751043686	56.4
+SA80	0	NA	NA	NA	NA	NA	NA	11/04/14	41	14:30	4	pm-2-4	water	water	water	SA80	water	Pos	583.0	63.47214	3.91970212768	56.4
+SA88	0	NA	NA	NA	NA	NA	NA	11/04/14	41	16:30	5	pm-4-6	water	water	water	SA88	water	Pos	479.0	45.52553	3.93806095009	56.4
